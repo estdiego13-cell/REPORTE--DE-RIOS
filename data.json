@@ -1,8 +1,8 @@
 {
   "hydroDate": "2026-10-14",
   "impactDate": "2026-10-13",
-  "checkedAt": "2026-10-15T02:12:43.929Z",
-  "weatherDate": "2026-10-15T02:12:43.929Z",
+  "checkedAt": "2026-10-15T02:13:21.910Z",
+  "weatherDate": "2026-10-15T02:13:21.910Z",
   "stations": [
     {
       "name": "Puerto Pilcomayo",
@@ -18,8 +18,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas medias bajas",
       "fresh": true,
-      "previous": 2.58,
-      "previousDate": "2026-10-13",
+      "previous": 2.81,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     },
     {
@@ -36,8 +36,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas medias",
       "fresh": true,
-      "previous": 3.12,
-      "previousDate": "2026-10-13",
+      "previous": 3.86,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     },
     {
@@ -54,8 +54,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas medias",
       "fresh": true,
-      "previous": 3.45,
-      "previousDate": "2026-10-13",
+      "previous": 3.49,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     },
     {
@@ -72,8 +72,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas medias",
       "fresh": true,
-      "previous": 3.55,
-      "previousDate": "2026-10-13",
+      "previous": 3.57,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     },
     {
@@ -90,8 +90,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas medias",
       "fresh": true,
-      "previous": 3.67,
-      "previousDate": "2026-10-13",
+      "previous": 3.69,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     },
     {
@@ -108,8 +108,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas medias",
       "fresh": true,
-      "previous": 3.31,
-      "previousDate": "2026-10-13",
+      "previous": 3.33,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     },
     {
@@ -126,8 +126,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas medias/medias altas",
       "fresh": true,
-      "previous": 1.4,
-      "previousDate": "2026-10-13",
+      "previous": 1.14,
+      "previousDate": "2026-10-14",
       "trend": "baja"
     },
     {
@@ -144,8 +144,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas medias altas/altas",
       "fresh": true,
-      "previous": 5.32,
-      "previousDate": "2026-10-13",
+      "previous": 5.5,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     },
     {
@@ -162,8 +162,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas medias altas/altas",
       "fresh": true,
-      "previous": 5.27,
-      "previousDate": "2026-10-13",
+      "previous": 5.4,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     },
     {
@@ -180,8 +180,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas medias altas/altas",
       "fresh": true,
-      "previous": 4.68,
-      "previousDate": "2026-10-13",
+      "previous": 4.78,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     },
     {
@@ -198,8 +198,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas medias altas/altas",
       "fresh": true,
-      "previous": 4.25,
-      "previousDate": "2026-10-13",
+      "previous": 4.35,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     },
     {
@@ -216,8 +216,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas medias altas/altas",
       "fresh": true,
-      "previous": 4.75,
-      "previousDate": "2026-10-13",
+      "previous": 4.82,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     },
     {
@@ -234,8 +234,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas altas",
       "fresh": true,
-      "previous": 6.58,
-      "previousDate": "2026-10-13",
+      "previous": 5.78,
+      "previousDate": "2026-10-14",
       "trend": "baja"
     },
     {
@@ -252,8 +252,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas altas",
       "fresh": true,
-      "previous": 10.97,
-      "previousDate": "2026-10-13",
+      "previous": 11.25,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     },
     {
@@ -270,8 +270,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas medias altas/altas",
       "fresh": true,
-      "previous": 11.28,
-      "previousDate": "2026-10-13",
+      "previous": 11.06,
+      "previousDate": "2026-10-14",
       "trend": "baja"
     },
     {
@@ -288,8 +288,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas medias altas/altas",
       "fresh": true,
-      "previous": 5.96,
-      "previousDate": "2026-10-13",
+      "previous": 5.78,
+      "previousDate": "2026-10-14",
       "trend": "baja"
     },
     {
@@ -307,7 +307,7 @@
       "status": "aguas medias altas",
       "fresh": true,
       "previous": 3,
-      "previousDate": "2026-10-13",
+      "previousDate": "2026-10-14",
       "trend": "igual"
     },
     {
@@ -324,8 +324,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas altas",
       "fresh": true,
-      "previous": 9.28,
-      "previousDate": "2026-10-13",
+      "previous": 9.38,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     },
     {
@@ -342,8 +342,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas altas",
       "fresh": true,
-      "previous": 28.65,
-      "previousDate": "2026-10-13",
+      "previous": 32.2,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     },
     {
@@ -360,8 +360,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas medias altas/altas",
       "fresh": true,
-      "previous": 16000,
-      "previousDate": "2026-10-13",
+      "previous": 16500,
+      "previousDate": "2026-10-14",
       "trend": "baja"
     },
     {
@@ -378,8 +378,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas medias altas/altas",
       "fresh": true,
-      "previous": 17300,
-      "previousDate": "2026-10-13",
+      "previous": 20400,
+      "previousDate": "2026-10-14",
       "trend": "baja"
     },
     {
@@ -396,8 +396,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas altas",
       "fresh": true,
-      "previous": 9871,
-      "previousDate": "2026-10-13",
+      "previous": 16227,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     },
     {
@@ -414,8 +414,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas altas",
       "fresh": true,
-      "previous": 27171,
-      "previousDate": "2026-10-13",
+      "previous": 36627,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     },
     {
@@ -432,8 +432,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas altas",
       "fresh": true,
-      "previous": 34100,
-      "previousDate": "2026-10-13",
+      "previous": 37300,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     },
     {
@@ -450,8 +450,8 @@
       "reportDate": "2026-10-14",
       "status": "aguas altas",
       "fresh": true,
-      "previous": 32800,
-      "previousDate": "2026-10-13",
+      "previous": 38500,
+      "previousDate": "2026-10-14",
       "trend": "sube"
     }
   ],
@@ -831,6 +831,12 @@
   ],
   "history": [
     {
+      "at": "2026-10-15T02:13:21.910Z",
+      "ok": 5,
+      "review": 2,
+      "errors": 0
+    },
+    {
       "at": "2026-10-15T02:12:43.929Z",
       "ok": 5,
       "review": 2,
@@ -871,10 +877,10 @@
       "url": "https://alerta.ina.gob.ar/a5/diario/reporte_diario",
       "kind": "structured",
       "date": "2026-10-14",
-      "checkedAt": "2026-10-15T02:12:43.929Z",
+      "checkedAt": "2026-10-15T02:13:21.910Z",
       "status": "ok",
       "message": "25 estaciones validadas",
-      "lastSuccess": "2026-10-15T02:12:43.929Z"
+      "lastSuccess": "2026-10-15T02:13:21.910Z"
     },
     {
       "id": "smn",
@@ -883,11 +889,11 @@
       "reference": "https://repositorio.smn.gob.ar/handle/20.500.12160/3332",
       "kind": "climate",
       "date": "2026-10-02",
-      "checkedAt": "2026-10-15T02:12:43.929Z",
+      "checkedAt": "2026-10-15T02:13:21.910Z",
       "status": "ok",
       "message": "Informe climático consultado",
       "latestUrl": "https://repositorio.smn.gob.ar/handle/20.500.12160/3332",
-      "lastSuccess": "2026-10-15T02:12:43.929Z"
+      "lastSuccess": "2026-10-15T02:13:21.910Z"
     },
     {
       "id": "municipio",
@@ -896,13 +902,13 @@
       "listing": "https://pasodeloslibres.gob.ar/noticias",
       "kind": "libres",
       "date": "2026-10-07",
-      "checkedAt": "2026-10-15T02:12:43.929Z",
+      "checkedAt": "2026-10-15T02:13:21.910Z",
       "status": "ok",
       "message": "Sin un conteo verificable más reciente",
       "latestUrl": "https://pasodeloslibres.gob.ar/noticias/1c31c259-78f3-434b-b5c8-79c6472cfc96",
       "hash": "5e72b0f9794aef4be1f370f5812134e6820d0ad9633b96e4c94886a6db4d5833",
       "changed": false,
-      "lastSuccess": "2026-10-15T02:12:43.929Z"
+      "lastSuccess": "2026-10-15T02:13:21.910Z"
     },
     {
       "id": "confirmado",
@@ -911,13 +917,13 @@
       "listing": "https://www.confirmado.com.ar/",
       "kind": "libres",
       "date": "2026-10-14",
-      "checkedAt": "2026-10-15T02:12:43.929Z",
+      "checkedAt": "2026-10-15T02:13:21.910Z",
       "status": "review",
       "message": "Nuevo reporte: conteo ambiguo; se conserva el dato anterior",
       "latestUrl": "https://www.confirmado.com.ar/vernota.asp?id_noticia=35058",
-      "hash": "6045ce21a76f398f8bd774bc3a6c093be17d71cb18a6d612f4bb577efc384852",
-      "changed": false,
-      "lastSuccess": "2026-10-15T02:12:43.929Z"
+      "hash": "a0e9b83174d19a383a4b5489d708b31601bb1b4c818754c135939b6fad1a60a1",
+      "changed": true,
+      "lastSuccess": "2026-10-15T02:13:21.910Z"
     },
     {
       "id": "concordia",
@@ -926,13 +932,13 @@
       "listing": "https://concordia24.com.ar/",
       "kind": "concordia",
       "date": "2026-10-14",
-      "checkedAt": "2026-10-15T02:12:43.929Z",
+      "checkedAt": "2026-10-15T02:13:21.910Z",
       "status": "review",
       "message": "Nuevo reporte: conteo ambiguo; se conserva el dato anterior",
       "latestUrl": "https://concordia24.com.ar/rio-uruguay-salto-grande-preve-una-leve-disminucion-del-nivel-del-rio-en-concordia-con-una-maxima-de-1120-metros/",
       "hash": "c496599363d335a62ef8945321ddf96d4859ca0a777f76ba46a748b8f37609df",
       "changed": false,
-      "lastSuccess": "2026-10-15T02:12:43.929Z"
+      "lastSuccess": "2026-10-15T02:13:21.910Z"
     },
     {
       "id": "weather",
@@ -940,10 +946,10 @@
       "url": "https://open-meteo.com/en/docs",
       "kind": "weather",
       "date": "2026-10-15",
-      "checkedAt": "2026-10-15T02:12:43.929Z",
+      "checkedAt": "2026-10-15T02:13:21.910Z",
       "status": "ok",
       "message": "Pronóstico de 3 días para 10 ciudades · Open-Meteo",
-      "lastSuccess": "2026-10-15T02:12:43.929Z"
+      "lastSuccess": "2026-10-15T02:13:21.910Z"
     },
     {
       "id": "esri",
@@ -951,10 +957,10 @@
       "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer?f=json",
       "kind": "map",
       "date": null,
-      "checkedAt": "2026-10-15T02:12:43.929Z",
+      "checkedAt": "2026-10-15T02:13:21.910Z",
       "status": "ok",
       "message": "Servicio de mapa disponible",
-      "lastSuccess": "2026-10-15T02:12:43.929Z"
+      "lastSuccess": "2026-10-15T02:13:21.910Z"
     }
   ]
 }
