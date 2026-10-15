@@ -1,8 +1,8 @@
 {
   "hydroDate": "2026-10-14",
   "impactDate": "2026-10-13",
-  "checkedAt": "2026-10-15T03:00:12.623Z",
-  "weatherDate": "2026-10-15T03:00:12.623Z",
+  "checkedAt": "2026-10-15T03:01:03.967Z",
+  "weatherDate": "2026-10-15T03:01:03.967Z",
   "stations": [
     {
       "name": "Puerto Pilcomayo",
@@ -831,6 +831,12 @@
   ],
   "history": [
     {
+      "at": "2026-10-15T03:01:03.967Z",
+      "ok": 5,
+      "review": 2,
+      "errors": 0
+    },
+    {
       "at": "2026-10-15T03:00:12.623Z",
       "ok": 5,
       "review": 2,
@@ -895,10 +901,10 @@
       "url": "https://alerta.ina.gob.ar/a5/diario/reporte_diario",
       "kind": "structured",
       "date": "2026-10-14",
-      "checkedAt": "2026-10-15T03:00:12.623Z",
+      "checkedAt": "2026-10-15T03:01:03.967Z",
       "status": "ok",
       "message": "25 estaciones validadas",
-      "lastSuccess": "2026-10-15T03:00:12.623Z"
+      "lastSuccess": "2026-10-15T03:01:03.967Z"
     },
     {
       "id": "smn",
@@ -907,11 +913,11 @@
       "reference": "https://repositorio.smn.gob.ar/handle/20.500.12160/3332",
       "kind": "climate",
       "date": "2026-10-02",
-      "checkedAt": "2026-10-15T03:00:12.623Z",
+      "checkedAt": "2026-10-15T03:01:03.967Z",
       "status": "ok",
       "message": "Informe climático consultado",
       "latestUrl": "https://repositorio.smn.gob.ar/handle/20.500.12160/3332",
-      "lastSuccess": "2026-10-15T03:00:12.623Z"
+      "lastSuccess": "2026-10-15T03:01:03.967Z"
     },
     {
       "id": "municipio",
@@ -920,13 +926,13 @@
       "listing": "https://pasodeloslibres.gob.ar/noticias",
       "kind": "libres",
       "date": "2026-10-07",
-      "checkedAt": "2026-10-15T03:00:12.623Z",
+      "checkedAt": "2026-10-15T03:01:03.967Z",
       "status": "ok",
       "message": "Sin un conteo verificable más reciente",
       "latestUrl": "https://pasodeloslibres.gob.ar/noticias/1c31c259-78f3-434b-b5c8-79c6472cfc96",
       "hash": "5e72b0f9794aef4be1f370f5812134e6820d0ad9633b96e4c94886a6db4d5833",
       "changed": false,
-      "lastSuccess": "2026-10-15T03:00:12.623Z"
+      "lastSuccess": "2026-10-15T03:01:03.967Z"
     },
     {
       "id": "confirmado",
@@ -935,13 +941,13 @@
       "listing": "https://www.confirmado.com.ar/",
       "kind": "libres",
       "date": "2026-10-15",
-      "checkedAt": "2026-10-15T03:00:12.623Z",
+      "checkedAt": "2026-10-15T03:01:03.967Z",
       "status": "review",
       "message": "Nuevo reporte: conteo ambiguo; se conserva el dato anterior",
       "latestUrl": "https://www.confirmado.com.ar/vernota.asp?id_noticia=35058",
-      "hash": "0a08cde71c5352d588b6b66349d4831d4a41b107f101facb7d5786870a2fae0e",
+      "hash": "4abfd153fda2c374f415e1ea4cc7c65b2ff2cbdd970819de366e105b465d9d14",
       "changed": true,
-      "lastSuccess": "2026-10-15T03:00:12.623Z"
+      "lastSuccess": "2026-10-15T03:01:03.967Z"
     },
     {
       "id": "concordia",
@@ -950,13 +956,13 @@
       "listing": "https://concordia24.com.ar/",
       "kind": "concordia",
       "date": "2026-10-14",
-      "checkedAt": "2026-10-15T03:00:12.623Z",
+      "checkedAt": "2026-10-15T03:01:03.967Z",
       "status": "review",
       "message": "Nuevo reporte: conteo ambiguo; se conserva el dato anterior",
       "latestUrl": "https://concordia24.com.ar/rio-uruguay-salto-grande-preve-una-leve-disminucion-del-nivel-del-rio-en-concordia-con-una-maxima-de-1120-metros/",
       "hash": "c496599363d335a62ef8945321ddf96d4859ca0a777f76ba46a748b8f37609df",
       "changed": false,
-      "lastSuccess": "2026-10-15T03:00:12.623Z"
+      "lastSuccess": "2026-10-15T03:01:03.967Z"
     },
     {
       "id": "weather",
@@ -964,10 +970,10 @@
       "url": "https://open-meteo.com/en/docs",
       "kind": "weather",
       "date": "2026-10-15",
-      "checkedAt": "2026-10-15T03:00:12.623Z",
+      "checkedAt": "2026-10-15T03:01:03.967Z",
       "status": "ok",
       "message": "Pronóstico de 3 días para 10 ciudades · Open-Meteo",
-      "lastSuccess": "2026-10-15T03:00:12.623Z"
+      "lastSuccess": "2026-10-15T03:01:03.967Z"
     },
     {
       "id": "esri",
@@ -975,10 +981,10 @@
       "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer?f=json",
       "kind": "map",
       "date": null,
-      "checkedAt": "2026-10-15T03:00:12.623Z",
+      "checkedAt": "2026-10-15T03:01:03.967Z",
       "status": "ok",
       "message": "Servicio de mapa disponible",
-      "lastSuccess": "2026-10-15T03:00:12.623Z"
+      "lastSuccess": "2026-10-15T03:01:03.967Z"
     }
   ]
 }
