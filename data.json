@@ -1,8 +1,8 @@
 {
   "hydroDate": "2026-10-14",
   "impactDate": "2026-10-13",
-  "checkedAt": "2026-10-15T08:46:22.971Z",
-  "weatherDate": "2026-10-15T08:46:22.971Z",
+  "checkedAt": "2026-10-15T12:18:10.078Z",
+  "weatherDate": "2026-10-15T12:18:10.078Z",
   "stations": [
     {
       "name": "Puerto Pilcomayo",
@@ -530,306 +530,312 @@
   "weather": [
     {
       "name": "Formosa / Formosa",
-      "source": "Open-Meteo",
+      "source": "MET Norway · extremos estimados del pronóstico horario",
       "days": [
         {
           "date": "2026-10-16",
           "min": 16,
-          "max": 24.9,
+          "max": 25,
           "condition": "Nubes y sol",
-          "rainProbability": 6,
-          "rainMm": 0
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-17",
           "min": 15,
-          "max": 22.2,
+          "max": 22,
           "condition": "Nubes y sol",
-          "rainProbability": 15,
-          "rainMm": 0
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-18",
-          "min": 13,
-          "max": 21.8,
+          "min": 14,
+          "max": 22,
           "condition": "Nubes y sol",
-          "rainProbability": 0,
-          "rainMm": 0
+          "rainProbability": null,
+          "rainMm": null
         }
       ]
     },
     {
       "name": "Chaco / Resistencia",
-      "source": "Open-Meteo",
+      "source": "MET Norway · extremos estimados del pronóstico horario",
       "days": [
         {
           "date": "2026-10-16",
-          "min": 13.9,
-          "max": 24.5,
+          "min": 14,
+          "max": 25,
           "condition": "Nubes y sol",
-          "rainProbability": 6,
-          "rainMm": 0
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-17",
-          "min": 13.4,
-          "max": 21.8,
+          "min": 13,
+          "max": 22,
           "condition": "Nubes y sol",
-          "rainProbability": 4,
-          "rainMm": 0
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-18",
           "min": 12,
           "max": 22,
           "condition": "Nubes y sol",
-          "rainProbability": 0,
-          "rainMm": 0
+          "rainProbability": null,
+          "rainMm": null
         }
       ]
     },
     {
       "name": "Misiones / Puerto Iguazú",
-      "source": "Open-Meteo",
+      "source": "MET Norway · extremos estimados del pronóstico horario",
       "days": [
         {
           "date": "2026-10-16",
-          "min": 16.2,
-          "max": 26.4,
-          "condition": "Llovizna",
-          "rainProbability": 6,
-          "rainMm": 0.6
+          "min": 16,
+          "max": 26,
+          "condition": "Lluvia / chubascos",
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-17",
-          "min": 13.7,
+          "min": 14,
           "max": 23,
           "condition": "Nubes y sol",
-          "rainProbability": 2,
-          "rainMm": 0
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-18",
-          "min": 12,
+          "min": 13,
           "max": 23,
-          "condition": "Nubes y sol",
-          "rainProbability": 0,
-          "rainMm": 0
+          "condition": "Despejado",
+          "rainProbability": null,
+          "rainMm": null
         }
       ]
     },
     {
       "name": "Corrientes / Corrientes",
-      "source": "Open-Meteo",
+      "source": "MET Norway · extremos estimados del pronóstico horario",
       "days": [
         {
           "date": "2026-10-16",
-          "min": 15.5,
-          "max": 23.8,
+          "min": 15,
+          "max": 24,
           "condition": "Nubes y sol",
-          "rainProbability": 2,
-          "rainMm": 0
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-17",
-          "min": 14.1,
-          "max": 21.1,
+          "min": 14,
+          "max": 21,
           "condition": "Nubes y sol",
-          "rainProbability": 2,
-          "rainMm": 0
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-18",
-          "min": 12.5,
-          "max": 21.1,
+          "min": 13,
+          "max": 21,
           "condition": "Nubes y sol",
-          "rainProbability": 0,
-          "rainMm": 0
+          "rainProbability": null,
+          "rainMm": null
         }
       ]
     },
     {
       "name": "Corrientes / Paso de los Libres",
-      "source": "Open-Meteo",
-      "days": [
-        {
-          "date": "2026-10-16",
-          "min": 13.2,
-          "max": 21.4,
-          "condition": "Llovizna",
-          "rainProbability": 31,
-          "rainMm": 0.3
-        },
-        {
-          "date": "2026-10-17",
-          "min": 11.5,
-          "max": 19.5,
-          "condition": "Nubes y sol",
-          "rainProbability": 12,
-          "rainMm": 0
-        },
-        {
-          "date": "2026-10-18",
-          "min": 9.7,
-          "max": 19.8,
-          "condition": "Nubes y sol",
-          "rainProbability": 8,
-          "rainMm": 0
-        }
-      ]
-    },
-    {
-      "name": "Entre Ríos / Concordia",
-      "source": "Open-Meteo",
+      "source": "MET Norway · extremos estimados del pronóstico horario",
       "days": [
         {
           "date": "2026-10-16",
           "min": 13,
           "max": 21,
-          "condition": "Llovizna",
-          "rainProbability": 53,
-          "rainMm": 1.4
+          "condition": "Nubes y sol",
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-17",
-          "min": 10.8,
-          "max": 17.4,
-          "condition": "Llovizna",
-          "rainProbability": 16,
-          "rainMm": 0.3
+          "min": 12,
+          "max": 19,
+          "condition": "Nubes y sol",
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-18",
-          "min": 8.8,
-          "max": 17.5,
+          "min": 11,
+          "max": 20,
           "condition": "Nubes y sol",
-          "rainProbability": 4,
-          "rainMm": 0
+          "rainProbability": null,
+          "rainMm": null
+        }
+      ]
+    },
+    {
+      "name": "Entre Ríos / Concordia",
+      "source": "MET Norway · extremos estimados del pronóstico horario",
+      "days": [
+        {
+          "date": "2026-10-16",
+          "min": 14,
+          "max": 21,
+          "condition": "Lluvia / chubascos",
+          "rainProbability": null,
+          "rainMm": null
+        },
+        {
+          "date": "2026-10-17",
+          "min": 11,
+          "max": 17,
+          "condition": "Nubes y sol",
+          "rainProbability": null,
+          "rainMm": null
+        },
+        {
+          "date": "2026-10-18",
+          "min": 10,
+          "max": 17,
+          "condition": "Nubes y sol",
+          "rainProbability": null,
+          "rainMm": null
         }
       ]
     },
     {
       "name": "Entre Ríos / Concepción del U.",
-      "source": "Open-Meteo",
+      "source": "MET Norway · extremos estimados del pronóstico horario",
       "days": [
         {
           "date": "2026-10-16",
-          "min": 11.7,
-          "max": 19.9,
-          "condition": "Llovizna",
-          "rainProbability": 80,
-          "rainMm": 3.3
+          "min": 12,
+          "max": 20,
+          "condition": "Lluvia / chubascos",
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-17",
-          "min": 10.1,
-          "max": 17.2,
-          "condition": "Llovizna",
-          "rainProbability": 23,
-          "rainMm": 0.6
+          "min": 11,
+          "max": 17,
+          "condition": "Lluvia / chubascos",
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-18",
-          "min": 7.9,
-          "max": 16.8,
+          "min": 8,
+          "max": 16,
           "condition": "Nubes y sol",
-          "rainProbability": 12,
-          "rainMm": 0
+          "rainProbability": null,
+          "rainMm": null
         }
       ]
     },
     {
       "name": "Entre Ríos / Gualeguaychú",
-      "source": "Open-Meteo",
+      "source": "MET Norway · extremos estimados del pronóstico horario",
       "days": [
         {
           "date": "2026-10-16",
           "min": 12,
-          "max": 18.5,
-          "condition": "Chubascos",
-          "rainProbability": 78,
-          "rainMm": 3.9
+          "max": 18,
+          "condition": "Lluvia / chubascos",
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-17",
-          "min": 10,
-          "max": 15.6,
-          "condition": "Llovizna",
-          "rainProbability": 22,
-          "rainMm": 0.5
+          "min": 11,
+          "max": 16,
+          "condition": "Lluvia / chubascos",
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-18",
           "min": 9,
-          "max": 15.7,
+          "max": 16,
           "condition": "Nubes y sol",
-          "rainProbability": 6,
-          "rainMm": 0
+          "rainProbability": null,
+          "rainMm": null
         }
       ]
     },
     {
       "name": "Santa Fe / Santa Fe",
-      "source": "Open-Meteo",
+      "source": "MET Norway · extremos estimados del pronóstico horario",
       "days": [
         {
           "date": "2026-10-16",
-          "min": 13.1,
-          "max": 18.8,
-          "condition": "Llovizna",
-          "rainProbability": 61,
-          "rainMm": 0.2
+          "min": 13,
+          "max": 19,
+          "condition": "Nubes y sol",
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-17",
-          "min": 12.2,
-          "max": 18.6,
-          "condition": "Llovizna",
-          "rainProbability": 10,
-          "rainMm": 0.3
+          "min": 13,
+          "max": 19,
+          "condition": "Lluvia / chubascos",
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-18",
-          "min": 9.5,
-          "max": 18.3,
+          "min": 11,
+          "max": 18,
           "condition": "Nubes y sol",
-          "rainProbability": 0,
-          "rainMm": 0
+          "rainProbability": null,
+          "rainMm": null
         }
       ]
     },
     {
       "name": "Santa Fe / Rosario",
-      "source": "Open-Meteo",
+      "source": "MET Norway · extremos estimados del pronóstico horario",
       "days": [
         {
           "date": "2026-10-16",
-          "min": 11.7,
-          "max": 17.9,
-          "condition": "Llovizna",
-          "rainProbability": 40,
-          "rainMm": 0.1
+          "min": 12,
+          "max": 18,
+          "condition": "Lluvia / chubascos",
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-17",
           "min": 10,
-          "max": 16.4,
+          "max": 16,
           "condition": "Nubes y sol",
-          "rainProbability": 14,
-          "rainMm": 0
+          "rainProbability": null,
+          "rainMm": null
         },
         {
           "date": "2026-10-18",
-          "min": 8.5,
-          "max": 16.7,
+          "min": 9,
+          "max": 17,
           "condition": "Nubes y sol",
-          "rainProbability": 4,
-          "rainMm": 0
+          "rainProbability": null,
+          "rainMm": null
         }
       ]
     }
   ],
   "history": [
+    {
+      "at": "2026-10-15T12:18:10.078Z",
+      "ok": 5,
+      "review": 2,
+      "errors": 0
+    },
     {
       "at": "2026-10-15T08:46:22.971Z",
       "ok": 5,
@@ -919,10 +925,10 @@
       "url": "https://alerta.ina.gob.ar/a5/diario/reporte_diario",
       "kind": "structured",
       "date": "2026-10-14",
-      "checkedAt": "2026-10-15T08:46:22.971Z",
+      "checkedAt": "2026-10-15T12:18:10.078Z",
       "status": "ok",
       "message": "25 estaciones validadas",
-      "lastSuccess": "2026-10-15T08:46:22.971Z"
+      "lastSuccess": "2026-10-15T12:18:10.078Z"
     },
     {
       "id": "smn",
@@ -931,11 +937,11 @@
       "reference": "https://repositorio.smn.gob.ar/handle/20.500.12160/3332",
       "kind": "climate",
       "date": "2026-10-02",
-      "checkedAt": "2026-10-15T08:46:22.971Z",
+      "checkedAt": "2026-10-15T12:18:10.078Z",
       "status": "ok",
       "message": "Informe climático consultado",
       "latestUrl": "https://repositorio.smn.gob.ar/handle/20.500.12160/3332",
-      "lastSuccess": "2026-10-15T08:46:22.971Z"
+      "lastSuccess": "2026-10-15T12:18:10.078Z"
     },
     {
       "id": "municipio",
@@ -944,13 +950,13 @@
       "listing": "https://pasodeloslibres.gob.ar/noticias",
       "kind": "libres",
       "date": "2026-10-07",
-      "checkedAt": "2026-10-15T08:46:22.971Z",
+      "checkedAt": "2026-10-15T12:18:10.078Z",
       "status": "ok",
       "message": "Sin un conteo verificable más reciente",
       "latestUrl": "https://pasodeloslibres.gob.ar/noticias/1c31c259-78f3-434b-b5c8-79c6472cfc96",
       "hash": "5e72b0f9794aef4be1f370f5812134e6820d0ad9633b96e4c94886a6db4d5833",
       "changed": false,
-      "lastSuccess": "2026-10-15T08:46:22.971Z"
+      "lastSuccess": "2026-10-15T12:18:10.078Z"
     },
     {
       "id": "confirmado",
@@ -959,13 +965,13 @@
       "listing": "https://www.confirmado.com.ar/",
       "kind": "libres",
       "date": "2026-10-15",
-      "checkedAt": "2026-10-15T08:46:22.971Z",
+      "checkedAt": "2026-10-15T12:18:10.078Z",
       "status": "review",
       "message": "Nuevo reporte: conteo ambiguo; se conserva el dato anterior",
       "latestUrl": "https://www.confirmado.com.ar/vernota.asp?id_noticia=35058",
-      "hash": "bb08c98cf8b8b5edb7ed5208c1107f14b1603dfd13db3685cc262c40974c7256",
+      "hash": "a872e39282d3a827678837f3ad8a5c382223b23cfb3b83e50b4b9296736f1374",
       "changed": true,
-      "lastSuccess": "2026-10-15T08:46:22.971Z"
+      "lastSuccess": "2026-10-15T12:18:10.078Z"
     },
     {
       "id": "concordia",
@@ -974,13 +980,13 @@
       "listing": "https://concordia24.com.ar/",
       "kind": "concordia",
       "date": "2026-10-14",
-      "checkedAt": "2026-10-15T08:46:22.971Z",
+      "checkedAt": "2026-10-15T12:18:10.078Z",
       "status": "review",
       "message": "Nuevo reporte: conteo ambiguo; se conserva el dato anterior",
       "latestUrl": "https://concordia24.com.ar/rio-uruguay-salto-grande-preve-una-leve-disminucion-del-nivel-del-rio-en-concordia-con-una-maxima-de-1120-metros/",
-      "hash": "c496599363d335a62ef8945321ddf96d4859ca0a777f76ba46a748b8f37609df",
-      "changed": false,
-      "lastSuccess": "2026-10-15T08:46:22.971Z"
+      "hash": "fac5c8b779a10002e1441550263e2205444ffce1abf7af9e99fa4760437fb1a7",
+      "changed": true,
+      "lastSuccess": "2026-10-15T12:18:10.078Z"
     },
     {
       "id": "weather",
@@ -988,10 +994,11 @@
       "url": "https://open-meteo.com/en/docs",
       "kind": "weather",
       "date": "2026-10-15",
-      "checkedAt": "2026-10-15T08:46:22.971Z",
+      "checkedAt": "2026-10-15T12:18:10.078Z",
       "status": "ok",
-      "message": "Pronóstico de 3 días para 10 ciudades · Open-Meteo",
-      "lastSuccess": "2026-10-15T08:46:22.971Z"
+      "message": "Pronóstico de 3 días para 10 ciudades · respaldo MET Norway; Open-Meteo no disponible",
+      "latestUrl": "https://api.met.no/weatherapi/locationforecast/2.0/documentation",
+      "lastSuccess": "2026-10-15T12:18:10.078Z"
     },
     {
       "id": "esri",
@@ -999,10 +1006,10 @@
       "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer?f=json",
       "kind": "map",
       "date": null,
-      "checkedAt": "2026-10-15T08:46:22.971Z",
+      "checkedAt": "2026-10-15T12:18:10.078Z",
       "status": "ok",
       "message": "Servicio de mapa disponible",
-      "lastSuccess": "2026-10-15T08:46:22.971Z"
+      "lastSuccess": "2026-10-15T12:18:10.078Z"
     }
   ]
 }
