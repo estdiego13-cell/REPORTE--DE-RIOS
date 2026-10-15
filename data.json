@@ -1,8 +1,8 @@
 {
   "hydroDate": "2026-10-14",
   "impactDate": "2026-10-13",
-  "checkedAt": "2026-10-15T02:54:48.455Z",
-  "weatherDate": "2026-10-15T02:54:48.455Z",
+  "checkedAt": "2026-10-15T03:00:12.623Z",
+  "weatherDate": "2026-10-15T03:00:12.623Z",
   "stations": [
     {
       "name": "Puerto Pilcomayo",
@@ -533,14 +533,6 @@
       "source": "Open-Meteo",
       "days": [
         {
-          "date": "2026-10-15",
-          "min": 17.2,
-          "max": 24.4,
-          "condition": "Llovizna",
-          "rainProbability": 16,
-          "rainMm": 0.3
-        },
-        {
           "date": "2026-10-16",
           "min": 16.5,
           "max": 24.7,
@@ -555,6 +547,14 @@
           "condition": "Llovizna",
           "rainProbability": 6,
           "rainMm": 0.1
+        },
+        {
+          "date": "2026-10-18",
+          "min": 13,
+          "max": 22.7,
+          "condition": "Nubes y sol",
+          "rainProbability": 0,
+          "rainMm": 0
         }
       ]
     },
@@ -562,14 +562,6 @@
       "name": "Chaco / Resistencia",
       "source": "Open-Meteo",
       "days": [
-        {
-          "date": "2026-10-15",
-          "min": 15.7,
-          "max": 23.8,
-          "condition": "Llovizna",
-          "rainProbability": 20,
-          "rainMm": 0.9
-        },
         {
           "date": "2026-10-16",
           "min": 13.8,
@@ -585,6 +577,14 @@
           "condition": "Nubes y sol",
           "rainProbability": 6,
           "rainMm": 0
+        },
+        {
+          "date": "2026-10-18",
+          "min": 11.9,
+          "max": 23,
+          "condition": "Nubes y sol",
+          "rainProbability": 2,
+          "rainMm": 0
         }
       ]
     },
@@ -592,14 +592,6 @@
       "name": "Misiones / Puerto Iguazú",
       "source": "Open-Meteo",
       "days": [
-        {
-          "date": "2026-10-15",
-          "min": 18.1,
-          "max": 26.8,
-          "condition": "Llovizna",
-          "rainProbability": 88,
-          "rainMm": 0.9
-        },
         {
           "date": "2026-10-16",
           "min": 16.2,
@@ -615,6 +607,14 @@
           "condition": "Nubes y sol",
           "rainProbability": 4,
           "rainMm": 0
+        },
+        {
+          "date": "2026-10-18",
+          "min": 11.6,
+          "max": 22.8,
+          "condition": "Nubes y sol",
+          "rainProbability": 0,
+          "rainMm": 0
         }
       ]
     },
@@ -622,14 +622,6 @@
       "name": "Corrientes / Corrientes",
       "source": "Open-Meteo",
       "days": [
-        {
-          "date": "2026-10-15",
-          "min": 16.4,
-          "max": 23.1,
-          "condition": "Llovizna",
-          "rainProbability": 17,
-          "rainMm": 0.3
-        },
         {
           "date": "2026-10-16",
           "min": 15.3,
@@ -645,6 +637,14 @@
           "condition": "Nubes y sol",
           "rainProbability": 2,
           "rainMm": 0
+        },
+        {
+          "date": "2026-10-18",
+          "min": 13.1,
+          "max": 21.5,
+          "condition": "Nubes y sol",
+          "rainProbability": 0,
+          "rainMm": 0
         }
       ]
     },
@@ -652,14 +652,6 @@
       "name": "Corrientes / Paso de los Libres",
       "source": "Open-Meteo",
       "days": [
-        {
-          "date": "2026-10-15",
-          "min": 15,
-          "max": 23.6,
-          "condition": "Llovizna",
-          "rainProbability": 22,
-          "rainMm": 1.3
-        },
         {
           "date": "2026-10-16",
           "min": 13.5,
@@ -675,6 +667,14 @@
           "condition": "Nubes y sol",
           "rainProbability": 8,
           "rainMm": 0
+        },
+        {
+          "date": "2026-10-18",
+          "min": 10.1,
+          "max": 19.7,
+          "condition": "Nubes y sol",
+          "rainProbability": 13,
+          "rainMm": 0
         }
       ]
     },
@@ -682,14 +682,6 @@
       "name": "Entre Ríos / Concordia",
       "source": "Open-Meteo",
       "days": [
-        {
-          "date": "2026-10-15",
-          "min": 12.9,
-          "max": 21.6,
-          "condition": "Nubes y sol",
-          "rainProbability": 26,
-          "rainMm": 0
-        },
         {
           "date": "2026-10-16",
           "min": 13,
@@ -705,6 +697,14 @@
           "condition": "Llovizna",
           "rainProbability": 16,
           "rainMm": 0.5
+        },
+        {
+          "date": "2026-10-18",
+          "min": 8.4,
+          "max": 17.6,
+          "condition": "Nubes y sol",
+          "rainProbability": 11,
+          "rainMm": 0
         }
       ]
     },
@@ -712,14 +712,6 @@
       "name": "Entre Ríos / Concepción del U.",
       "source": "Open-Meteo",
       "days": [
-        {
-          "date": "2026-10-15",
-          "min": 12.7,
-          "max": 21.9,
-          "condition": "Chubascos",
-          "rainProbability": 86,
-          "rainMm": 2.9
-        },
         {
           "date": "2026-10-16",
           "min": 12.2,
@@ -735,6 +727,14 @@
           "condition": "Llovizna",
           "rainProbability": 31,
           "rainMm": 0.7
+        },
+        {
+          "date": "2026-10-18",
+          "min": 8,
+          "max": 17.5,
+          "condition": "Nubes y sol",
+          "rainProbability": 10,
+          "rainMm": 0
         }
       ]
     },
@@ -742,14 +742,6 @@
       "name": "Entre Ríos / Gualeguaychú",
       "source": "Open-Meteo",
       "days": [
-        {
-          "date": "2026-10-15",
-          "min": 13.1,
-          "max": 19.8,
-          "condition": "Llovizna",
-          "rainProbability": 69,
-          "rainMm": 4.1
-        },
         {
           "date": "2026-10-16",
           "min": 12.2,
@@ -765,6 +757,14 @@
           "condition": "Llovizna",
           "rainProbability": 24,
           "rainMm": 1
+        },
+        {
+          "date": "2026-10-18",
+          "min": 8.7,
+          "max": 15.6,
+          "condition": "Llovizna",
+          "rainProbability": 12,
+          "rainMm": 0.1
         }
       ]
     },
@@ -772,14 +772,6 @@
       "name": "Santa Fe / Santa Fe",
       "source": "Open-Meteo",
       "days": [
-        {
-          "date": "2026-10-15",
-          "min": 13.9,
-          "max": 20.3,
-          "condition": "Llovizna",
-          "rainProbability": 20,
-          "rainMm": 0.7
-        },
         {
           "date": "2026-10-16",
           "min": 13.3,
@@ -795,6 +787,14 @@
           "condition": "Nubes y sol",
           "rainProbability": 8,
           "rainMm": 0
+        },
+        {
+          "date": "2026-10-18",
+          "min": 9.4,
+          "max": 18.7,
+          "condition": "Nubes y sol",
+          "rainProbability": 2,
+          "rainMm": 0
         }
       ]
     },
@@ -802,14 +802,6 @@
       "name": "Santa Fe / Rosario",
       "source": "Open-Meteo",
       "days": [
-        {
-          "date": "2026-10-15",
-          "min": 12,
-          "max": 20.7,
-          "condition": "Llovizna",
-          "rainProbability": 45,
-          "rainMm": 0.8
-        },
         {
           "date": "2026-10-16",
           "min": 12.3,
@@ -825,11 +817,25 @@
           "condition": "Nubes y sol",
           "rainProbability": 8,
           "rainMm": 0
+        },
+        {
+          "date": "2026-10-18",
+          "min": 8.6,
+          "max": 17.3,
+          "condition": "Nubes y sol",
+          "rainProbability": 4,
+          "rainMm": 0
         }
       ]
     }
   ],
   "history": [
+    {
+      "at": "2026-10-15T03:00:12.623Z",
+      "ok": 5,
+      "review": 2,
+      "errors": 0
+    },
     {
       "at": "2026-10-15T02:54:48.455Z",
       "ok": 5,
@@ -889,10 +895,10 @@
       "url": "https://alerta.ina.gob.ar/a5/diario/reporte_diario",
       "kind": "structured",
       "date": "2026-10-14",
-      "checkedAt": "2026-10-15T02:54:48.455Z",
+      "checkedAt": "2026-10-15T03:00:12.623Z",
       "status": "ok",
       "message": "25 estaciones validadas",
-      "lastSuccess": "2026-10-15T02:54:48.455Z"
+      "lastSuccess": "2026-10-15T03:00:12.623Z"
     },
     {
       "id": "smn",
@@ -901,11 +907,11 @@
       "reference": "https://repositorio.smn.gob.ar/handle/20.500.12160/3332",
       "kind": "climate",
       "date": "2026-10-02",
-      "checkedAt": "2026-10-15T02:54:48.455Z",
+      "checkedAt": "2026-10-15T03:00:12.623Z",
       "status": "ok",
       "message": "Informe climático consultado",
       "latestUrl": "https://repositorio.smn.gob.ar/handle/20.500.12160/3332",
-      "lastSuccess": "2026-10-15T02:54:48.455Z"
+      "lastSuccess": "2026-10-15T03:00:12.623Z"
     },
     {
       "id": "municipio",
@@ -914,13 +920,13 @@
       "listing": "https://pasodeloslibres.gob.ar/noticias",
       "kind": "libres",
       "date": "2026-10-07",
-      "checkedAt": "2026-10-15T02:54:48.455Z",
+      "checkedAt": "2026-10-15T03:00:12.623Z",
       "status": "ok",
       "message": "Sin un conteo verificable más reciente",
       "latestUrl": "https://pasodeloslibres.gob.ar/noticias/1c31c259-78f3-434b-b5c8-79c6472cfc96",
       "hash": "5e72b0f9794aef4be1f370f5812134e6820d0ad9633b96e4c94886a6db4d5833",
       "changed": false,
-      "lastSuccess": "2026-10-15T02:54:48.455Z"
+      "lastSuccess": "2026-10-15T03:00:12.623Z"
     },
     {
       "id": "confirmado",
@@ -928,14 +934,14 @@
       "url": "https://www.confirmado.com.ar/vernota.asp?id_noticia=35058",
       "listing": "https://www.confirmado.com.ar/",
       "kind": "libres",
-      "date": "2026-10-14",
-      "checkedAt": "2026-10-15T02:54:48.455Z",
+      "date": "2026-10-15",
+      "checkedAt": "2026-10-15T03:00:12.623Z",
       "status": "review",
       "message": "Nuevo reporte: conteo ambiguo; se conserva el dato anterior",
       "latestUrl": "https://www.confirmado.com.ar/vernota.asp?id_noticia=35058",
-      "hash": "2f783595d09f45a53267d432cca39c671305dca75df840b030e9228abb6f728d",
+      "hash": "0a08cde71c5352d588b6b66349d4831d4a41b107f101facb7d5786870a2fae0e",
       "changed": true,
-      "lastSuccess": "2026-10-15T02:54:48.455Z"
+      "lastSuccess": "2026-10-15T03:00:12.623Z"
     },
     {
       "id": "concordia",
@@ -944,13 +950,13 @@
       "listing": "https://concordia24.com.ar/",
       "kind": "concordia",
       "date": "2026-10-14",
-      "checkedAt": "2026-10-15T02:54:48.455Z",
+      "checkedAt": "2026-10-15T03:00:12.623Z",
       "status": "review",
       "message": "Nuevo reporte: conteo ambiguo; se conserva el dato anterior",
       "latestUrl": "https://concordia24.com.ar/rio-uruguay-salto-grande-preve-una-leve-disminucion-del-nivel-del-rio-en-concordia-con-una-maxima-de-1120-metros/",
       "hash": "c496599363d335a62ef8945321ddf96d4859ca0a777f76ba46a748b8f37609df",
       "changed": false,
-      "lastSuccess": "2026-10-15T02:54:48.455Z"
+      "lastSuccess": "2026-10-15T03:00:12.623Z"
     },
     {
       "id": "weather",
@@ -958,10 +964,10 @@
       "url": "https://open-meteo.com/en/docs",
       "kind": "weather",
       "date": "2026-10-15",
-      "checkedAt": "2026-10-15T02:54:48.455Z",
+      "checkedAt": "2026-10-15T03:00:12.623Z",
       "status": "ok",
       "message": "Pronóstico de 3 días para 10 ciudades · Open-Meteo",
-      "lastSuccess": "2026-10-15T02:54:48.455Z"
+      "lastSuccess": "2026-10-15T03:00:12.623Z"
     },
     {
       "id": "esri",
@@ -969,10 +975,10 @@
       "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer?f=json",
       "kind": "map",
       "date": null,
-      "checkedAt": "2026-10-15T02:54:48.455Z",
+      "checkedAt": "2026-10-15T03:00:12.623Z",
       "status": "ok",
       "message": "Servicio de mapa disponible",
-      "lastSuccess": "2026-10-15T02:54:48.455Z"
+      "lastSuccess": "2026-10-15T03:00:12.623Z"
     }
   ]
 }
