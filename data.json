@@ -1,383 +1,458 @@
 {
-  "hydroDate": "2026-10-13",
+  "hydroDate": "2026-10-14",
   "impactDate": "2026-10-13",
-  "checkedAt": null,
-  "weatherDate": "2026-10-14",
+  "checkedAt": "2026-10-15T02:12:43.929Z",
+  "weatherDate": "2026-10-15T02:12:43.929Z",
   "stations": [
     {
       "name": "Puerto Pilcomayo",
       "river": "Paraguay",
       "lon": -57.65,
-      "lat": -25.37,
-      "value": 2.58,
+      "lat": -25.36666667,
+      "value": 2.81,
       "alert": 5.35,
       "evacuation": 6,
       "category": 0,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas medias bajas",
+      "fresh": true,
+      "previous": 2.58,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     },
     {
       "name": "Puerto Formosa",
       "river": "Paraguay",
-      "lon": -58.16,
-      "lat": -26.18,
-      "value": 3.12,
+      "lon": -58.18333333,
+      "lat": -26.18333333,
+      "value": 3.86,
       "alert": 7.8,
       "evacuation": 8.3,
       "category": 0,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas medias",
+      "fresh": true,
+      "previous": 3.12,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     },
     {
       "name": "Paraná",
       "river": "Paraná",
-      "lon": -60.53,
-      "lat": -31.73,
-      "value": 3.45,
+      "lon": -60.52256978,
+      "lat": -31.71823786,
+      "value": 3.49,
       "alert": 4.7,
       "evacuation": 5,
       "category": 0,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas medias",
+      "fresh": true,
+      "previous": 3.45,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     },
     {
       "name": "Santa Fe",
       "river": "Paraná",
-      "lon": -60.7,
-      "lat": -31.65,
-      "value": 3.55,
+      "lon": -60.70023192,
+      "lat": -31.65147722,
+      "value": 3.57,
       "alert": 5.3,
       "evacuation": 5.7,
       "category": 0,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas medias",
+      "fresh": true,
+      "previous": 3.55,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     },
     {
       "name": "Victoria",
       "river": "Paraná/Delta",
-      "lon": -60.15,
-      "lat": -32.62,
-      "value": 3.67,
+      "lon": -60.21958494,
+      "lat": -32.65584564,
+      "value": 3.69,
       "alert": 4.6,
       "evacuation": 5.9,
       "category": 0,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas medias",
+      "fresh": true,
+      "previous": 3.67,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     },
     {
       "name": "Rosario",
       "river": "Paraná",
-      "lon": -60.63,
-      "lat": -32.95,
-      "value": 3.31,
+      "lon": -60.6308206,
+      "lat": -32.94326994,
+      "value": 3.33,
       "alert": 5,
       "evacuation": 5.25,
       "category": 0,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas medias",
+      "fresh": true,
+      "previous": 3.31,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     },
     {
       "name": "San Fernando",
-      "river": "Luján",
+      "river": "Lujan",
       "lon": -58.55,
-      "lat": -34.44,
-      "value": 1.4,
+      "lat": -34.43333333,
+      "value": 1.14,
       "alert": 3,
       "evacuation": 3.5,
       "category": 1,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas medias/medias altas",
+      "fresh": true,
+      "previous": 1.4,
+      "previousDate": "2026-10-13",
+      "trend": "baja"
     },
     {
       "name": "Corrientes",
       "river": "Paraná",
-      "lon": -58.83,
-      "lat": -27.47,
-      "value": 5.32,
+      "lon": -58.8388696,
+      "lat": -27.46364349,
+      "value": 5.5,
       "alert": 6.5,
       "evacuation": 7,
       "category": 1,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas medias altas/altas",
+      "fresh": true,
+      "previous": 5.32,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     },
     {
       "name": "Barranqueras",
       "river": "Paraná",
-      "lon": -58.93,
-      "lat": -27.49,
-      "value": 5.27,
+      "lon": -58.93333333,
+      "lat": -27.48333333,
+      "value": 5.4,
       "alert": 6,
       "evacuation": 6.5,
       "category": 1,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas medias altas/altas",
+      "fresh": true,
+      "previous": 5.27,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     },
     {
       "name": "Goya",
       "river": "Paraná",
-      "lon": -59.26,
-      "lat": -29.14,
-      "value": 4.68,
+      "lon": -59.27303952,
+      "lat": -29.14376844,
+      "value": 4.78,
       "alert": 5.2,
       "evacuation": 5.7,
       "category": 1,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas medias altas/altas",
+      "fresh": true,
+      "previous": 4.68,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     },
     {
       "name": "Reconquista",
       "river": "Paraná",
-      "lon": -59.59,
-      "lat": -29.23,
-      "value": 4.25,
+      "lon": -59.58115833,
+      "lat": -29.23756092,
+      "value": 4.35,
       "alert": 5.1,
       "evacuation": 5.3,
       "category": 1,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas medias altas/altas",
+      "fresh": true,
+      "previous": 4.25,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     },
     {
       "name": "La Paz",
       "river": "Paraná",
-      "lon": -59.65,
-      "lat": -30.75,
-      "value": 4.75,
+      "lon": -59.6381167,
+      "lat": -30.73419972,
+      "value": 4.82,
       "alert": 5.8,
       "evacuation": 6.15,
       "category": 1,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas medias altas/altas",
+      "fresh": true,
+      "previous": 4.75,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     },
     {
       "name": "San Javier",
       "river": "Uruguay",
-      "lon": -55.13,
-      "lat": -27.88,
-      "value": 6.58,
+      "lon": -55.13333333,
+      "lat": -27.88333333,
+      "value": 5.78,
       "alert": 8,
       "evacuation": 10,
       "category": 1,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas altas",
+      "fresh": true,
+      "previous": 6.58,
+      "previousDate": "2026-10-13",
+      "trend": "baja"
     },
     {
       "name": "Santo Tomé",
       "river": "Uruguay",
-      "lon": -56.04,
+      "lon": -56.03333333,
       "lat": -28.55,
-      "value": 10.97,
+      "value": 11.25,
       "alert": 11.5,
       "evacuation": 12.5,
       "category": 1,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas altas",
+      "fresh": true,
+      "previous": 10.97,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     },
     {
       "name": "Concordia",
       "river": "Uruguay",
-      "lon": -58.02,
-      "lat": -31.39,
-      "value": 11.28,
+      "lon": -58.01666667,
+      "lat": -31.4,
+      "value": 11.06,
       "alert": 11,
       "evacuation": 12.5,
       "category": 2,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas medias altas/altas",
+      "fresh": true,
+      "previous": 11.28,
+      "previousDate": "2026-10-13",
+      "trend": "baja"
     },
     {
       "name": "Concepción del Uruguay",
       "river": "Uruguay",
-      "lon": -58.23,
-      "lat": -32.48,
-      "value": 5.96,
+      "lon": -58.23333333,
+      "lat": -32.48333333,
+      "value": 5.78,
       "alert": 5.3,
       "evacuation": 6.3,
       "category": 2,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas medias altas/altas",
+      "fresh": true,
+      "previous": 5.96,
+      "previousDate": "2026-10-13",
+      "trend": "baja"
     },
     {
       "name": "Boca Gualeguaychú",
       "river": "Uruguay",
-      "lon": -58.42,
-      "lat": -33.08,
+      "lon": -58.41666667,
+      "lat": -33.06666667,
       "value": 3,
       "alert": 2.9,
       "evacuation": 3.1,
       "category": 2,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas medias altas",
+      "fresh": true,
+      "previous": 3,
+      "previousDate": "2026-10-13",
+      "trend": "igual"
     },
     {
       "name": "Paso de los Libres",
       "river": "Uruguay",
-      "lon": -57.08,
-      "lat": -29.72,
-      "value": 9.28,
+      "lon": -57.08333333,
+      "lat": -29.71666667,
+      "value": 9.38,
       "alert": 7.5,
       "evacuation": 8.5,
       "category": 3,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas altas",
+      "fresh": true,
+      "previous": 9.28,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     },
     {
       "name": "Puerto Iguazú",
       "river": "Paraná",
-      "lon": -54.58,
-      "lat": -25.6,
-      "value": 28.65,
+      "lon": -54.56666667,
+      "lat": -25.58333333,
+      "value": 32.2,
       "alert": 25,
       "evacuation": 28,
       "category": 3,
       "unit": "m",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas altas",
+      "fresh": true,
+      "previous": 28.65,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     },
     {
       "name": "Guaíra Porto (Brasil)",
       "river": "Paraná",
-      "lon": -54.25,
-      "lat": -24.07,
-      "value": 16000,
+      "lon": -54.2342,
+      "lat": -24.0425,
+      "value": 16500,
       "alert": 20000,
       "evacuation": 25000,
       "category": 1,
       "unit": "m³/s",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas medias altas/altas",
+      "fresh": true,
+      "previous": 16000,
+      "previousDate": "2026-10-13",
+      "trend": "baja"
     },
     {
       "name": "Itaipú (Brasil)",
       "river": "Paraná",
-      "lon": -54.59,
-      "lat": -25.41,
-      "value": 17300,
+      "lon": -54.583,
+      "lat": -25.4,
+      "value": 20400,
       "alert": 20000,
       "evacuation": 25000,
-      "category": 1,
+      "category": 2,
       "unit": "m³/s",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas medias altas/altas",
+      "fresh": true,
+      "previous": 17300,
+      "previousDate": "2026-10-13",
+      "trend": "baja"
     },
     {
       "name": "Andresito",
-      "river": "Iguazú",
-      "lon": -54.0,
-      "lat": -25.58,
-      "value": 9871,
+      "river": "Iguazu",
+      "lon": -53.98333333,
+      "lat": -25.58333333,
+      "value": 16227,
       "alert": 5000,
       "evacuation": 6500,
       "category": 3,
       "unit": "m³/s",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas altas",
+      "fresh": true,
+      "previous": 9871,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     },
     {
       "name": "Confluencia",
       "river": "Paraná",
-      "lon": -54.59,
-      "lat": -25.61,
-      "value": 27171,
+      "lon": -54.593363,
+      "lat": -25.592701,
+      "value": 36627,
       "alert": 25000,
       "evacuation": 30000,
-      "category": 2,
+      "category": 3,
       "unit": "m³/s",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas altas",
+      "fresh": true,
+      "previous": 27171,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     },
     {
       "name": "Yacyretá afluente",
       "river": "Paraná",
-      "lon": -56.76,
-      "lat": -27.42,
-      "value": 34100,
+      "lon": -56.727244,
+      "lat": -27.482557,
+      "value": 37300,
       "alert": 25000,
       "evacuation": 30000,
       "category": 3,
       "unit": "m³/s",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas altas",
+      "fresh": true,
+      "previous": 34100,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     },
     {
       "name": "Yacyretá efluente",
       "river": "Paraná",
-      "lon": -56.77,
-      "lat": -27.48,
-      "value": 32800,
+      "lon": -56.727244,
+      "lat": -27.482557,
+      "value": 38500,
       "alert": 25000,
       "evacuation": 30000,
       "category": 3,
       "unit": "m³/s",
-      "date": "2026-10-13",
-      "reportDate": "2026-10-13",
-      "status": "Corte original",
-      "fresh": false
+      "date": "2026-10-14",
+      "reportDate": "2026-10-14",
+      "status": "aguas altas",
+      "fresh": true,
+      "previous": 32800,
+      "previousDate": "2026-10-13",
+      "trend": "sube"
     }
   ],
   "extra": [
@@ -455,248 +530,315 @@
   "weather": [
     {
       "name": "Formosa / Formosa",
-      "source": "Weather · corte original 14/10/2026",
+      "source": "Open-Meteo",
       "days": [
         {
           "date": "2026-10-15",
-          "min": 14,
-          "max": 25,
-          "condition": "Chubascos"
+          "min": 17.2,
+          "max": 24.4,
+          "condition": "Llovizna",
+          "rainProbability": 16,
+          "rainMm": 0.3
         },
         {
           "date": "2026-10-16",
-          "min": 13,
-          "max": 25,
-          "condition": "Mayormente soleado"
+          "min": 16.5,
+          "max": 24.7,
+          "condition": "Nubes y sol",
+          "rainProbability": 4,
+          "rainMm": 0
         },
         {
           "date": "2026-10-17",
-          "min": 11,
-          "max": 23,
-          "condition": "Chubascos tardíos"
+          "min": 14.4,
+          "max": 22.1,
+          "condition": "Llovizna",
+          "rainProbability": 6,
+          "rainMm": 0.1
         }
       ]
     },
     {
       "name": "Chaco / Resistencia",
-      "source": "Weather · corte original 14/10/2026",
+      "source": "Open-Meteo",
       "days": [
         {
           "date": "2026-10-15",
-          "min": 12,
-          "max": 23,
-          "condition": "Nubes y sol"
+          "min": 15.7,
+          "max": 23.8,
+          "condition": "Llovizna",
+          "rainProbability": 20,
+          "rainMm": 0.9
         },
         {
           "date": "2026-10-16",
-          "min": 12,
-          "max": 25,
-          "condition": "Soleado"
+          "min": 13.8,
+          "max": 24.3,
+          "condition": "Nubes y sol",
+          "rainProbability": 2,
+          "rainMm": 0
         },
         {
           "date": "2026-10-17",
-          "min": 9,
-          "max": 22,
-          "condition": "Nublado"
+          "min": 13.5,
+          "max": 22.3,
+          "condition": "Nubes y sol",
+          "rainProbability": 6,
+          "rainMm": 0
         }
       ]
     },
     {
       "name": "Misiones / Puerto Iguazú",
-      "source": "Weather · corte original 14/10/2026",
+      "source": "Open-Meteo",
       "days": [
         {
           "date": "2026-10-15",
-          "min": 14,
-          "max": 25,
-          "condition": "Tormentas aisladas"
+          "min": 18.1,
+          "max": 26.8,
+          "condition": "Llovizna",
+          "rainProbability": 88,
+          "rainMm": 0.9
         },
         {
           "date": "2026-10-16",
-          "min": 12,
-          "max": 25,
-          "condition": "Parcialmente soleado"
+          "min": 16.2,
+          "max": 26.2,
+          "condition": "Nubes y sol",
+          "rainProbability": 8,
+          "rainMm": 0
         },
         {
           "date": "2026-10-17",
-          "min": 9,
-          "max": 22,
-          "condition": "Más nubosidad"
+          "min": 13.5,
+          "max": 23.5,
+          "condition": "Nubes y sol",
+          "rainProbability": 4,
+          "rainMm": 0
         }
       ]
     },
     {
       "name": "Corrientes / Corrientes",
-      "source": "Weather · corte original 14/10/2026",
+      "source": "Open-Meteo",
       "days": [
         {
           "date": "2026-10-15",
-          "min": 13,
-          "max": 23,
-          "condition": "Nubes y sol"
+          "min": 16.4,
+          "max": 23.1,
+          "condition": "Llovizna",
+          "rainProbability": 17,
+          "rainMm": 0.3
         },
         {
           "date": "2026-10-16",
-          "min": 12,
-          "max": 24,
-          "condition": "Soleado"
+          "min": 15.3,
+          "max": 23.7,
+          "condition": "Nubes y sol",
+          "rainProbability": 0,
+          "rainMm": 0
         },
         {
           "date": "2026-10-17",
-          "min": 10,
-          "max": 22,
-          "condition": "Mayormente nublado"
+          "min": 14,
+          "max": 21.6,
+          "condition": "Nubes y sol",
+          "rainProbability": 2,
+          "rainMm": 0
         }
       ]
     },
     {
       "name": "Corrientes / Paso de los Libres",
-      "source": "Weather · corte original 14/10/2026",
+      "source": "Open-Meteo",
       "days": [
         {
           "date": "2026-10-15",
-          "min": 12,
-          "max": 24,
-          "condition": "Lluvias y tormentas"
+          "min": 15,
+          "max": 23.6,
+          "condition": "Llovizna",
+          "rainProbability": 22,
+          "rainMm": 1.3
         },
         {
           "date": "2026-10-16",
-          "min": 11,
-          "max": 21,
-          "condition": "Posibles tormentas"
+          "min": 13.5,
+          "max": 21.1,
+          "condition": "Llovizna",
+          "rainProbability": 26,
+          "rainMm": 0.2
         },
         {
           "date": "2026-10-17",
-          "min": 9,
-          "max": 20,
-          "condition": "Parcialmente soleado"
+          "min": 12.2,
+          "max": 19,
+          "condition": "Nubes y sol",
+          "rainProbability": 8,
+          "rainMm": 0
         }
       ]
     },
     {
       "name": "Entre Ríos / Concordia",
-      "source": "Weather · corte original 14/10/2026",
+      "source": "Open-Meteo",
       "days": [
         {
           "date": "2026-10-15",
-          "min": 11,
-          "max": 22,
-          "condition": "Chubascos"
+          "min": 12.9,
+          "max": 21.6,
+          "condition": "Nubes y sol",
+          "rainProbability": 26,
+          "rainMm": 0
         },
         {
           "date": "2026-10-16",
-          "min": 9,
-          "max": 20,
-          "condition": "Nubes y algo de sol"
+          "min": 13,
+          "max": 20.9,
+          "condition": "Llovizna",
+          "rainProbability": 65,
+          "rainMm": 1.4
         },
         {
           "date": "2026-10-17",
-          "min": 6,
-          "max": 19,
-          "condition": "Nubes y sol"
+          "min": 11.1,
+          "max": 19.4,
+          "condition": "Llovizna",
+          "rainProbability": 16,
+          "rainMm": 0.5
         }
       ]
     },
     {
       "name": "Entre Ríos / Concepción del U.",
-      "source": "Weather · corte original 14/10/2026",
+      "source": "Open-Meteo",
       "days": [
         {
           "date": "2026-10-15",
-          "min": 11,
-          "max": 21,
-          "condition": "Chubascos"
+          "min": 12.7,
+          "max": 21.9,
+          "condition": "Chubascos",
+          "rainProbability": 86,
+          "rainMm": 2.9
         },
         {
           "date": "2026-10-16",
-          "min": 9,
-          "max": 18,
-          "condition": "Algo de lluvia"
+          "min": 12.2,
+          "max": 19.8,
+          "condition": "Llovizna",
+          "rainProbability": 71,
+          "rainMm": 2.1
         },
         {
           "date": "2026-10-17",
-          "min": 6,
-          "max": 17,
-          "condition": "Nubes y sol"
+          "min": 10.2,
+          "max": 18.1,
+          "condition": "Llovizna",
+          "rainProbability": 31,
+          "rainMm": 0.7
         }
       ]
     },
     {
       "name": "Entre Ríos / Gualeguaychú",
-      "source": "Weather · corte original 14/10/2026",
+      "source": "Open-Meteo",
       "days": [
         {
           "date": "2026-10-15",
-          "min": 11,
-          "max": 20,
-          "condition": "Chubascos"
+          "min": 13.1,
+          "max": 19.8,
+          "condition": "Llovizna",
+          "rainProbability": 69,
+          "rainMm": 4.1
         },
         {
           "date": "2026-10-16",
-          "min": 8,
-          "max": 19,
-          "condition": "Chubascos breves"
+          "min": 12.2,
+          "max": 18.6,
+          "condition": "Llovizna",
+          "rainProbability": 76,
+          "rainMm": 1.2
         },
         {
           "date": "2026-10-17",
-          "min": 5,
-          "max": 17,
-          "condition": "Nubes y sol"
+          "min": 10.2,
+          "max": 16.5,
+          "condition": "Llovizna",
+          "rainProbability": 24,
+          "rainMm": 1
         }
       ]
     },
     {
       "name": "Santa Fe / Santa Fe",
-      "source": "Weather · corte original 14/10/2026",
+      "source": "Open-Meteo",
       "days": [
         {
           "date": "2026-10-15",
-          "min": 13,
-          "max": 20,
-          "condition": "Posibles chubascos"
+          "min": 13.9,
+          "max": 20.3,
+          "condition": "Llovizna",
+          "rainProbability": 20,
+          "rainMm": 0.7
         },
         {
           "date": "2026-10-16",
-          "min": 9,
-          "max": 19,
-          "condition": "Nubosidad variable"
+          "min": 13.3,
+          "max": 19.8,
+          "condition": "Llovizna",
+          "rainProbability": 52,
+          "rainMm": 0.9
         },
         {
           "date": "2026-10-17",
-          "min": 8,
-          "max": 19,
-          "condition": "Nubes y sol"
+          "min": 11.5,
+          "max": 17.6,
+          "condition": "Nubes y sol",
+          "rainProbability": 8,
+          "rainMm": 0
         }
       ]
     },
     {
       "name": "Santa Fe / Rosario",
-      "source": "Weather · corte original 14/10/2026",
+      "source": "Open-Meteo",
       "days": [
         {
           "date": "2026-10-15",
-          "min": 11,
-          "max": 20,
-          "condition": "Posibles chubascos"
+          "min": 12,
+          "max": 20.7,
+          "condition": "Llovizna",
+          "rainProbability": 45,
+          "rainMm": 0.8
         },
         {
           "date": "2026-10-16",
-          "min": 8,
-          "max": 18,
-          "condition": "Nubes y algo de sol"
+          "min": 12.3,
+          "max": 17.7,
+          "condition": "Llovizna",
+          "rainProbability": 43,
+          "rainMm": 0.4
         },
         {
           "date": "2026-10-17",
-          "min": 6,
-          "max": 18,
-          "condition": "Parcialmente soleado"
+          "min": 9,
+          "max": 16.5,
+          "condition": "Nubes y sol",
+          "rainProbability": 8,
+          "rainMm": 0
         }
       ]
     }
   ],
-  "history": [],
+  "history": [
+    {
+      "at": "2026-10-15T02:12:43.929Z",
+      "ok": 5,
+      "review": 2,
+      "errors": 0
+    }
+  ],
   "enso": {
-    "text": "El Niño de fuerte intensidad, según el informe ENOS de octubre de 2026. Es contexto climático, no una atribución causal por sí sola.",
+    "text": "Las condiciones del ENOS corresponden a una fase c&aacute;lida o El Ni&ntilde;o de fuerte intensidad. La temperatura del agua del mar (TSM) en el oc&eacute;ano Pac&iacute;fico ecuatorial mantiene un calentamiento al este de la l&iacute;nea de cambio de fecha (180&deg;), con m&aacute;ximos cerca de",
     "date": "2026-10-02",
     "url": "https://repositorio.smn.gob.ar/handle/20.500.12160/3332"
   },
@@ -727,64 +869,92 @@
       "id": "ina",
       "name": "INA · monitoreo de ríos",
       "url": "https://alerta.ina.gob.ar/a5/diario/reporte_diario",
-      "date": "2026-10-13",
-      "status": "seed",
-      "checkedAt": null,
-      "message": "Dato del corte original de la infografía"
+      "kind": "structured",
+      "date": "2026-10-14",
+      "checkedAt": "2026-10-15T02:12:43.929Z",
+      "status": "ok",
+      "message": "25 estaciones validadas",
+      "lastSuccess": "2026-10-15T02:12:43.929Z"
     },
     {
       "id": "smn",
       "name": "SMN · El Niño / ENOS",
-      "url": "https://repositorio.smn.gob.ar/handle/20.500.12160/3332",
+      "url": "https://ws2.smn.gob.ar/enos",
+      "reference": "https://repositorio.smn.gob.ar/handle/20.500.12160/3332",
+      "kind": "climate",
       "date": "2026-10-02",
-      "status": "seed",
-      "checkedAt": null,
-      "message": "Dato del corte original de la infografía"
+      "checkedAt": "2026-10-15T02:12:43.929Z",
+      "status": "ok",
+      "message": "Informe climático consultado",
+      "latestUrl": "https://repositorio.smn.gob.ar/handle/20.500.12160/3332",
+      "lastSuccess": "2026-10-15T02:12:43.929Z"
     },
     {
       "id": "municipio",
       "name": "Municipio de Paso de los Libres",
       "url": "https://pasodeloslibres.gob.ar/noticias/1c31c259-78f3-434b-b5c8-79c6472cfc96",
+      "listing": "https://pasodeloslibres.gob.ar/noticias",
+      "kind": "libres",
       "date": "2026-10-07",
-      "status": "seed",
-      "checkedAt": null,
-      "message": "Dato del corte original de la infografía"
+      "checkedAt": "2026-10-15T02:12:43.929Z",
+      "status": "ok",
+      "message": "Sin un conteo verificable más reciente",
+      "latestUrl": "https://pasodeloslibres.gob.ar/noticias/1c31c259-78f3-434b-b5c8-79c6472cfc96",
+      "hash": "5e72b0f9794aef4be1f370f5812134e6820d0ad9633b96e4c94886a6db4d5833",
+      "changed": false,
+      "lastSuccess": "2026-10-15T02:12:43.929Z"
     },
     {
       "id": "confirmado",
       "name": "Confirmado · Paso de los Libres",
       "url": "https://www.confirmado.com.ar/vernota.asp?id_noticia=35058",
-      "date": "2026-10-11",
-      "status": "seed",
-      "checkedAt": null,
-      "message": "Dato del corte original de la infografía"
+      "listing": "https://www.confirmado.com.ar/",
+      "kind": "libres",
+      "date": "2026-10-14",
+      "checkedAt": "2026-10-15T02:12:43.929Z",
+      "status": "review",
+      "message": "Nuevo reporte: conteo ambiguo; se conserva el dato anterior",
+      "latestUrl": "https://www.confirmado.com.ar/vernota.asp?id_noticia=35058",
+      "hash": "6045ce21a76f398f8bd774bc3a6c093be17d71cb18a6d612f4bb577efc384852",
+      "changed": false,
+      "lastSuccess": "2026-10-15T02:12:43.929Z"
     },
     {
       "id": "concordia",
       "name": "Concordia 24 · parte municipal / COE",
       "url": "https://concordia24.com.ar/hasta-este-domingo-son-7-familias-evacuadas/",
-      "date": "2026-10-11",
-      "status": "seed",
-      "checkedAt": null,
-      "message": "Dato del corte original de la infografía"
+      "listing": "https://concordia24.com.ar/",
+      "kind": "concordia",
+      "date": "2026-10-14",
+      "checkedAt": "2026-10-15T02:12:43.929Z",
+      "status": "review",
+      "message": "Nuevo reporte: conteo ambiguo; se conserva el dato anterior",
+      "latestUrl": "https://concordia24.com.ar/rio-uruguay-salto-grande-preve-una-leve-disminucion-del-nivel-del-rio-en-concordia-con-una-maxima-de-1120-metros/",
+      "hash": "c496599363d335a62ef8945321ddf96d4859ca0a777f76ba46a748b8f37609df",
+      "changed": false,
+      "lastSuccess": "2026-10-15T02:12:43.929Z"
     },
     {
       "id": "weather",
-      "name": "Consulta Weather · corte original",
+      "name": "Pronóstico automático · Open-Meteo / MET Norway",
       "url": "https://open-meteo.com/en/docs",
-      "date": "2026-10-14",
-      "status": "seed",
-      "checkedAt": null,
-      "message": "Dato del corte original de la infografía"
+      "kind": "weather",
+      "date": "2026-10-15",
+      "checkedAt": "2026-10-15T02:12:43.929Z",
+      "status": "ok",
+      "message": "Pronóstico de 3 días para 10 ciudades · Open-Meteo",
+      "lastSuccess": "2026-10-15T02:12:43.929Z"
     },
     {
       "id": "esri",
       "name": "Base topográfica · Esri y colaboradores",
-      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer",
-      "date": "2026-10-14",
-      "status": "seed",
-      "checkedAt": null,
-      "message": "Dato del corte original de la infografía"
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer?f=json",
+      "kind": "map",
+      "date": null,
+      "checkedAt": "2026-10-15T02:12:43.929Z",
+      "status": "ok",
+      "message": "Servicio de mapa disponible",
+      "lastSuccess": "2026-10-15T02:12:43.929Z"
     }
   ]
 }
