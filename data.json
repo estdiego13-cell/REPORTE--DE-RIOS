@@ -1,8 +1,8 @@
 {
   "hydroDate": "2026-10-15",
   "impactDate": "2026-10-13",
-  "checkedAt": "2026-10-16T00:03:34.918Z",
-  "weatherDate": "2026-10-16T00:03:34.918Z",
+  "checkedAt": "2026-10-16T02:42:21.870Z",
+  "weatherDate": "2026-10-16T02:42:21.870Z",
   "stations": [
     {
       "name": "Puerto Pilcomayo",
@@ -534,24 +534,24 @@
       "days": [
         {
           "date": "2026-10-16",
-          "min": 16.1,
-          "max": 24.8,
+          "min": 17,
+          "max": 24.6,
           "condition": "Nubes y sol",
-          "rainProbability": 4,
+          "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-17",
-          "min": 15.2,
-          "max": 22,
-          "condition": "Nubes y sol",
-          "rainProbability": 8,
-          "rainMm": 0
+          "min": 14.9,
+          "max": 21.9,
+          "condition": "Llovizna",
+          "rainProbability": 14,
+          "rainMm": 0.1
         },
         {
           "date": "2026-10-18",
           "min": 12.5,
-          "max": 21.5,
+          "max": 21.6,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
@@ -564,24 +564,24 @@
       "days": [
         {
           "date": "2026-10-16",
-          "min": 14,
-          "max": 24.5,
+          "min": 14.2,
+          "max": 24.7,
           "condition": "Nubes y sol",
-          "rainProbability": 2,
+          "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-17",
-          "min": 13.6,
-          "max": 21.8,
+          "min": 13.8,
+          "max": 22.1,
           "condition": "Nubes y sol",
-          "rainProbability": 2,
+          "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-18",
-          "min": 11.6,
-          "max": 21.6,
+          "min": 11.5,
+          "max": 22.2,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
@@ -594,24 +594,24 @@
       "days": [
         {
           "date": "2026-10-16",
-          "min": 16.8,
+          "min": 17,
           "max": 26.4,
           "condition": "Llovizna",
-          "rainProbability": 22,
-          "rainMm": 0.1
+          "rainProbability": 11,
+          "rainMm": 0.4
         },
         {
           "date": "2026-10-17",
-          "min": 13.6,
-          "max": 22.3,
+          "min": 13.9,
+          "max": 22.7,
           "condition": "Nubes y sol",
           "rainProbability": 2,
           "rainMm": 0
         },
         {
           "date": "2026-10-18",
-          "min": 11.9,
-          "max": 22.5,
+          "min": 12.1,
+          "max": 22.6,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
@@ -625,23 +625,23 @@
         {
           "date": "2026-10-16",
           "min": 15.5,
-          "max": 23.4,
+          "max": 23.6,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-17",
-          "min": 13.8,
-          "max": 21,
+          "min": 14.3,
+          "max": 21.1,
           "condition": "Nubes y sol",
-          "rainProbability": 2,
+          "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-18",
-          "min": 12.2,
-          "max": 20.5,
+          "min": 12.3,
+          "max": 20.6,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
@@ -654,26 +654,26 @@
       "days": [
         {
           "date": "2026-10-16",
-          "min": 13.4,
-          "max": 21,
+          "min": 13.1,
+          "max": 20.8,
           "condition": "Llovizna",
-          "rainProbability": 12,
-          "rainMm": 0.3
+          "rainProbability": 8,
+          "rainMm": 0.2
         },
         {
           "date": "2026-10-17",
-          "min": 10.7,
+          "min": 10.5,
           "max": 19.6,
           "condition": "Nubes y sol",
-          "rainProbability": 2,
+          "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-18",
-          "min": 9.4,
-          "max": 18.7,
+          "min": 9.3,
+          "max": 18.8,
           "condition": "Nubes y sol",
-          "rainProbability": 12,
+          "rainProbability": 4,
           "rainMm": 0
         }
       ]
@@ -684,26 +684,26 @@
       "days": [
         {
           "date": "2026-10-16",
-          "min": 12,
-          "max": 20.8,
+          "min": 11.8,
+          "max": 20.3,
           "condition": "Llovizna",
-          "rainProbability": 50,
+          "rainProbability": 62,
           "rainMm": 1
         },
         {
           "date": "2026-10-17",
-          "min": 9.2,
-          "max": 17.2,
+          "min": 9.3,
+          "max": 17.9,
           "condition": "Llovizna",
-          "rainProbability": 12,
-          "rainMm": 0.4
+          "rainProbability": 6,
+          "rainMm": 0.2
         },
         {
           "date": "2026-10-18",
-          "min": 8,
-          "max": 16.6,
+          "min": 8.5,
+          "max": 16.9,
           "condition": "Nubes y sol",
-          "rainProbability": 4,
+          "rainProbability": 2,
           "rainMm": 0
         }
       ]
@@ -714,24 +714,24 @@
       "days": [
         {
           "date": "2026-10-16",
-          "min": 11.2,
-          "max": 19.6,
+          "min": 11.1,
+          "max": 19.5,
           "condition": "Llovizna",
-          "rainProbability": 74,
+          "rainProbability": 94,
           "rainMm": 2
         },
         {
           "date": "2026-10-17",
-          "min": 9.2,
-          "max": 16.6,
+          "min": 9.4,
+          "max": 17.4,
           "condition": "Nubes y sol",
-          "rainProbability": 25,
+          "rainProbability": 18,
           "rainMm": 0
         },
         {
           "date": "2026-10-18",
-          "min": 7.8,
-          "max": 17.1,
+          "min": 7.7,
+          "max": 17.7,
           "condition": "Nubes y sol",
           "rainProbability": 2,
           "rainMm": 0
@@ -744,27 +744,27 @@
       "days": [
         {
           "date": "2026-10-16",
-          "min": 12.1,
+          "min": 11.6,
           "max": 18.3,
           "condition": "Llovizna",
-          "rainProbability": 82,
-          "rainMm": 1.6
+          "rainProbability": 84,
+          "rainMm": 1.2
         },
         {
           "date": "2026-10-17",
-          "min": 9.7,
-          "max": 15.5,
-          "condition": "Llovizna",
-          "rainProbability": 19,
-          "rainMm": 0.2
+          "min": 9.9,
+          "max": 16,
+          "condition": "Nubes y sol",
+          "rainProbability": 12,
+          "rainMm": 0
         },
         {
           "date": "2026-10-18",
-          "min": 8.4,
-          "max": 15.1,
-          "condition": "Llovizna",
-          "rainProbability": 6,
-          "rainMm": 0.1
+          "min": 7.8,
+          "max": 16,
+          "condition": "Nubes y sol",
+          "rainProbability": 4,
+          "rainMm": 0
         }
       ]
     },
@@ -774,24 +774,24 @@
       "days": [
         {
           "date": "2026-10-16",
-          "min": 13.2,
-          "max": 18.8,
+          "min": 13.6,
+          "max": 19.6,
           "condition": "Llovizna",
-          "rainProbability": 25,
-          "rainMm": 1.1
+          "rainProbability": 51,
+          "rainMm": 1.4
         },
         {
           "date": "2026-10-17",
-          "min": 10.9,
-          "max": 16.9,
+          "min": 11,
+          "max": 16.6,
           "condition": "Llovizna",
-          "rainProbability": 14,
+          "rainProbability": 4,
           "rainMm": 0.1
         },
         {
           "date": "2026-10-18",
-          "min": 8.9,
-          "max": 17.5,
+          "min": 9.1,
+          "max": 17.8,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
@@ -805,23 +805,23 @@
         {
           "date": "2026-10-16",
           "min": 11.8,
-          "max": 17.5,
+          "max": 17.9,
           "condition": "Llovizna",
-          "rainProbability": 22,
-          "rainMm": 0.4
+          "rainProbability": 24,
+          "rainMm": 0.7
         },
         {
           "date": "2026-10-17",
           "min": 8.5,
-          "max": 15.8,
+          "max": 15.3,
           "condition": "Nubes y sol",
-          "rainProbability": 8,
+          "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-18",
-          "min": 7.9,
-          "max": 16.7,
+          "min": 8.2,
+          "max": 16.4,
           "condition": "Nubes y sol",
           "rainProbability": 2,
           "rainMm": 0
@@ -830,6 +830,12 @@
     }
   ],
   "history": [
+    {
+      "at": "2026-10-16T02:42:21.870Z",
+      "ok": 6,
+      "review": 0,
+      "errors": 1
+    },
     {
       "at": "2026-10-16T00:03:34.918Z",
       "ok": 6,
@@ -955,10 +961,10 @@
       "url": "https://alerta.ina.gob.ar/a5/diario/reporte_diario",
       "kind": "structured",
       "date": "2026-10-15",
-      "checkedAt": "2026-10-16T00:03:34.918Z",
+      "checkedAt": "2026-10-16T02:42:21.870Z",
       "status": "ok",
       "message": "25 estaciones validadas",
-      "lastSuccess": "2026-10-16T00:03:34.918Z"
+      "lastSuccess": "2026-10-16T02:42:21.870Z"
     },
     {
       "id": "smn",
@@ -967,11 +973,11 @@
       "reference": "https://repositorio.smn.gob.ar/handle/20.500.12160/3332",
       "kind": "climate",
       "date": "2026-10-02",
-      "checkedAt": "2026-10-16T00:03:34.918Z",
+      "checkedAt": "2026-10-16T02:42:21.870Z",
       "status": "ok",
       "message": "Informe climático consultado",
       "latestUrl": "https://repositorio.smn.gob.ar/handle/20.500.12160/3332",
-      "lastSuccess": "2026-10-16T00:03:34.918Z"
+      "lastSuccess": "2026-10-16T02:42:21.870Z"
     },
     {
       "id": "municipio",
@@ -980,13 +986,13 @@
       "listing": "https://pasodeloslibres.gob.ar/noticias",
       "kind": "libres",
       "date": "2026-10-07",
-      "checkedAt": "2026-10-16T00:03:34.918Z",
+      "checkedAt": "2026-10-16T02:42:21.870Z",
       "status": "ok",
       "message": "Sin un conteo verificable más reciente",
       "latestUrl": "https://pasodeloslibres.gob.ar/noticias/1c31c259-78f3-434b-b5c8-79c6472cfc96",
       "hash": "9ed3d37ff57c21b31f24b38de83b1765fb84940f0dbd3a2351482cb12a7cb356",
       "changed": false,
-      "lastSuccess": "2026-10-16T00:03:34.918Z"
+      "lastSuccess": "2026-10-16T02:42:21.870Z"
     },
     {
       "id": "confirmado",
@@ -995,12 +1001,9 @@
       "listing": "https://www.confirmado.com.ar/",
       "kind": "libres",
       "date": "2026-10-15",
-      "checkedAt": "2026-10-16T00:03:34.918Z",
-      "status": "review",
-      "message": "Nuevo reporte: conteo ambiguo; se conserva el dato anterior",
-      "latestUrl": "https://www.confirmado.com.ar/vernota.asp?id_noticia=35058",
-      "hash": "1c8633639aa49ee1bd1d4c9783805dc59cbc1d416da4d2d00164f56b0dc0ba12",
-      "changed": true,
+      "checkedAt": "2026-10-16T02:42:21.870Z",
+      "status": "error",
+      "message": "fetch failed",
       "lastSuccess": "2026-10-16T00:03:34.918Z"
     },
     {
@@ -1010,13 +1013,13 @@
       "listing": "https://concordia24.com.ar/",
       "kind": "concordia",
       "date": "2026-10-11",
-      "checkedAt": "2026-10-16T00:03:34.918Z",
+      "checkedAt": "2026-10-16T02:42:21.870Z",
       "status": "ok",
       "message": "Sin un conteo verificable más reciente",
       "latestUrl": "https://concordia24.com.ar/hasta-este-domingo-son-7-familias-evacuadas/",
       "hash": "75808c5537ad292f53a696f6fb86a84b973f16d6ad729347f69b714cf1e526aa",
       "changed": false,
-      "lastSuccess": "2026-10-16T00:03:34.918Z"
+      "lastSuccess": "2026-10-16T02:42:21.870Z"
     },
     {
       "id": "weather",
@@ -1024,10 +1027,10 @@
       "url": "https://open-meteo.com/en/docs",
       "kind": "weather",
       "date": "2026-10-16",
-      "checkedAt": "2026-10-16T00:03:34.918Z",
+      "checkedAt": "2026-10-16T02:42:21.870Z",
       "status": "ok",
       "message": "Pronóstico de 3 días para 10 ciudades · Open-Meteo",
-      "lastSuccess": "2026-10-16T00:03:34.918Z"
+      "lastSuccess": "2026-10-16T02:42:21.870Z"
     },
     {
       "id": "esri",
@@ -1035,10 +1038,10 @@
       "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer?f=json",
       "kind": "map",
       "date": null,
-      "checkedAt": "2026-10-16T00:03:34.918Z",
+      "checkedAt": "2026-10-16T02:42:21.870Z",
       "status": "ok",
       "message": "Servicio de mapa disponible",
-      "lastSuccess": "2026-10-16T00:03:34.918Z"
+      "lastSuccess": "2026-10-16T02:42:21.870Z"
     }
   ]
 }
