@@ -1,8 +1,8 @@
 {
   "hydroDate": "2026-10-16",
   "impactDate": "2026-10-13",
-  "checkedAt": "2026-10-16T20:42:30.376Z",
-  "weatherDate": "2026-10-16T20:42:30.376Z",
+  "checkedAt": "2026-10-17T02:41:17.171Z",
+  "weatherDate": "2026-10-17T02:41:17.171Z",
   "stations": [
     {
       "name": "Puerto Pilcomayo",
@@ -18,8 +18,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas medias bajas/medias",
       "fresh": true,
-      "previous": 3.04,
-      "previousDate": "2026-10-15",
+      "previous": 3.14,
+      "previousDate": "2026-10-16",
       "trend": "sube"
     },
     {
@@ -36,8 +36,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas medias",
       "fresh": true,
-      "previous": 4.05,
-      "previousDate": "2026-10-15",
+      "previous": 4.21,
+      "previousDate": "2026-10-16",
       "trend": "sube"
     },
     {
@@ -54,8 +54,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas medias",
       "fresh": true,
-      "previous": 3.54,
-      "previousDate": "2026-10-15",
+      "previous": 3.58,
+      "previousDate": "2026-10-16",
       "trend": "sube"
     },
     {
@@ -72,8 +72,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas medias",
       "fresh": true,
-      "previous": 3.62,
-      "previousDate": "2026-10-15",
+      "previous": 3.65,
+      "previousDate": "2026-10-16",
       "trend": "sube"
     },
     {
@@ -90,8 +90,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas medias",
       "fresh": true,
-      "previous": 3.7,
-      "previousDate": "2026-10-15",
+      "previous": 3.72,
+      "previousDate": "2026-10-16",
       "trend": "sube"
     },
     {
@@ -108,8 +108,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas medias",
       "fresh": true,
-      "previous": 3.34,
-      "previousDate": "2026-10-15",
+      "previous": 3.35,
+      "previousDate": "2026-10-16",
       "trend": "sube"
     },
     {
@@ -126,8 +126,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas medias/medias altas",
       "fresh": true,
-      "previous": 1.58,
-      "previousDate": "2026-10-15",
+      "previous": 2.02,
+      "previousDate": "2026-10-16",
       "trend": "sube"
     },
     {
@@ -144,8 +144,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas altas",
       "fresh": true,
-      "previous": 5.75,
-      "previousDate": "2026-10-15",
+      "previous": 6.13,
+      "previousDate": "2026-10-16",
       "trend": "sube"
     },
     {
@@ -162,8 +162,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas altas",
       "fresh": true,
-      "previous": 5.61,
-      "previousDate": "2026-10-15",
+      "previous": 6.08,
+      "previousDate": "2026-10-16",
       "trend": "sube"
     },
     {
@@ -180,8 +180,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas medias altas/altas",
       "fresh": true,
-      "previous": 4.86,
-      "previousDate": "2026-10-15",
+      "previous": 4.95,
+      "previousDate": "2026-10-16",
       "trend": "sube"
     },
     {
@@ -198,8 +198,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas medias altas/altas",
       "fresh": true,
-      "previous": 4.42,
-      "previousDate": "2026-10-15",
+      "previous": 4.5,
+      "previousDate": "2026-10-16",
       "trend": "sube"
     },
     {
@@ -216,8 +216,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas medias altas/altas",
       "fresh": true,
-      "previous": 4.88,
-      "previousDate": "2026-10-15",
+      "previous": 4.92,
+      "previousDate": "2026-10-16",
       "trend": "sube"
     },
     {
@@ -234,8 +234,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas altas",
       "fresh": true,
-      "previous": 6.43,
-      "previousDate": "2026-10-15",
+      "previous": 6.4,
+      "previousDate": "2026-10-16",
       "trend": "baja"
     },
     {
@@ -252,8 +252,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas altas",
       "fresh": true,
-      "previous": 11,
-      "previousDate": "2026-10-15",
+      "previous": 10.98,
+      "previousDate": "2026-10-16",
       "trend": "baja"
     },
     {
@@ -270,8 +270,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas medias altas/altas",
       "fresh": true,
-      "previous": 10.92,
-      "previousDate": "2026-10-15",
+      "previous": 10.86,
+      "previousDate": "2026-10-16",
       "trend": "baja"
     },
     {
@@ -288,8 +288,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas medias altas/altas",
       "fresh": true,
-      "previous": 5.68,
-      "previousDate": "2026-10-15",
+      "previous": 5.56,
+      "previousDate": "2026-10-16",
       "trend": "baja"
     },
     {
@@ -306,8 +306,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas medias altas",
       "fresh": true,
-      "previous": 2.94,
-      "previousDate": "2026-10-15",
+      "previous": 3,
+      "previousDate": "2026-10-16",
       "trend": "sube"
     },
     {
@@ -325,7 +325,7 @@
       "status": "aguas altas",
       "fresh": true,
       "previous": 9.46,
-      "previousDate": "2026-10-15",
+      "previousDate": "2026-10-16",
       "trend": "igual"
     },
     {
@@ -342,8 +342,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas altas",
       "fresh": true,
-      "previous": 32.7,
-      "previousDate": "2026-10-15",
+      "previous": 32.9,
+      "previousDate": "2026-10-16",
       "trend": "sube"
     },
     {
@@ -360,8 +360,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas medias altas/altas",
       "fresh": true,
-      "previous": 22000,
-      "previousDate": "2026-10-15",
+      "previous": 19700,
+      "previousDate": "2026-10-16",
       "trend": "baja"
     },
     {
@@ -378,8 +378,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas medias altas/altas",
       "fresh": true,
-      "previous": 20100,
-      "previousDate": "2026-10-15",
+      "previous": 24200,
+      "previousDate": "2026-10-16",
       "trend": "sube"
     },
     {
@@ -396,8 +396,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas altas",
       "fresh": true,
-      "previous": 14596,
-      "previousDate": "2026-10-15",
+      "previous": 10727,
+      "previousDate": "2026-10-16",
       "trend": "baja"
     },
     {
@@ -414,8 +414,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas altas",
       "fresh": true,
-      "previous": 34696,
-      "previousDate": "2026-10-15",
+      "previous": 34927,
+      "previousDate": "2026-10-16",
       "trend": "baja"
     },
     {
@@ -432,8 +432,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas altas",
       "fresh": true,
-      "previous": 40000,
-      "previousDate": "2026-10-15",
+      "previous": 39500,
+      "previousDate": "2026-10-16",
       "trend": "baja"
     },
     {
@@ -450,8 +450,8 @@
       "reportDate": "2026-10-16",
       "status": "aguas altas",
       "fresh": true,
-      "previous": 38700,
-      "previousDate": "2026-10-15",
+      "previous": 39100,
+      "previousDate": "2026-10-16",
       "trend": "sube"
     }
   ],
@@ -534,24 +534,24 @@
       "days": [
         {
           "date": "2026-10-17",
-          "min": 15.1,
-          "max": 21.4,
+          "min": 15.5,
+          "max": 21.9,
           "condition": "Llovizna",
-          "rainProbability": 16,
-          "rainMm": 0.9
+          "rainProbability": 25,
+          "rainMm": 0.5
         },
         {
           "date": "2026-10-18",
-          "min": 12.3,
-          "max": 21,
+          "min": 12.4,
+          "max": 21.2,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-19",
-          "min": 12.8,
-          "max": 22.1,
+          "min": 13,
+          "max": 22.4,
           "condition": "Nubes y sol",
           "rainProbability": 2,
           "rainMm": 0
@@ -565,25 +565,25 @@
         {
           "date": "2026-10-17",
           "min": 13.2,
-          "max": 20.8,
+          "max": 21.3,
           "condition": "Nubes y sol",
-          "rainProbability": 8,
+          "rainProbability": 4,
           "rainMm": 0
         },
         {
           "date": "2026-10-18",
-          "min": 11.2,
-          "max": 21.2,
+          "min": 11.5,
+          "max": 21.5,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-19",
-          "min": 11.9,
-          "max": 19.5,
+          "min": 12.2,
+          "max": 21.4,
           "condition": "Nubes y sol",
-          "rainProbability": 2,
+          "rainProbability": 0,
           "rainMm": 0
         }
       ]
@@ -594,24 +594,24 @@
       "days": [
         {
           "date": "2026-10-17",
-          "min": 14.2,
-          "max": 23.6,
+          "min": 14.7,
+          "max": 22.7,
           "condition": "Nubes y sol",
-          "rainProbability": 2,
+          "rainProbability": 6,
           "rainMm": 0
         },
         {
           "date": "2026-10-18",
           "min": 11.3,
-          "max": 22.3,
-          "condition": "Nubes y sol",
+          "max": 22.5,
+          "condition": "Despejado",
           "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-19",
           "min": 10.6,
-          "max": 23,
+          "max": 23.5,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
@@ -624,24 +624,24 @@
       "days": [
         {
           "date": "2026-10-17",
-          "min": 14.1,
-          "max": 20.3,
+          "min": 14.2,
+          "max": 20.9,
           "condition": "Nubes y sol",
           "rainProbability": 4,
           "rainMm": 0
         },
         {
           "date": "2026-10-18",
-          "min": 11.8,
-          "max": 20.2,
+          "min": 12,
+          "max": 20.5,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-19",
-          "min": 11.9,
-          "max": 19.3,
+          "min": 12.1,
+          "max": 21.1,
           "condition": "Nubes y sol",
           "rainProbability": 2,
           "rainMm": 0
@@ -654,26 +654,26 @@
       "days": [
         {
           "date": "2026-10-17",
-          "min": 10.5,
-          "max": 18.8,
+          "min": 10.6,
+          "max": 18.9,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-18",
-          "min": 8.7,
-          "max": 18.3,
+          "min": 8.8,
+          "max": 18.6,
           "condition": "Nubes y sol",
-          "rainProbability": 2,
+          "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-19",
-          "min": 8.8,
-          "max": 20.1,
+          "min": 9,
+          "max": 20.3,
           "condition": "Nubes y sol",
-          "rainProbability": 4,
+          "rainProbability": 0,
           "rainMm": 0
         }
       ]
@@ -684,7 +684,7 @@
       "days": [
         {
           "date": "2026-10-17",
-          "min": 9.3,
+          "min": 9.8,
           "max": 17.1,
           "condition": "Llovizna",
           "rainProbability": 4,
@@ -692,16 +692,16 @@
         },
         {
           "date": "2026-10-18",
-          "min": 7.9,
-          "max": 16.9,
+          "min": 8.2,
+          "max": 16.6,
           "condition": "Nubes y sol",
-          "rainProbability": 2,
+          "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-19",
-          "min": 7.7,
-          "max": 18.6,
+          "min": 7.9,
+          "max": 19.2,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
@@ -714,24 +714,24 @@
       "days": [
         {
           "date": "2026-10-17",
-          "min": 8.7,
-          "max": 15.2,
+          "min": 9.6,
+          "max": 14.9,
           "condition": "Llovizna",
-          "rainProbability": 2,
-          "rainMm": 0.2
+          "rainProbability": 10,
+          "rainMm": 0.4
         },
         {
           "date": "2026-10-18",
-          "min": 7,
-          "max": 16.7,
+          "min": 7.3,
+          "max": 16.8,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-19",
-          "min": 7.3,
-          "max": 18.3,
+          "min": 7.9,
+          "max": 18,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
@@ -744,24 +744,24 @@
       "days": [
         {
           "date": "2026-10-17",
-          "min": 9.2,
-          "max": 13.8,
+          "min": 9.6,
+          "max": 14.4,
           "condition": "Llovizna",
-          "rainProbability": 10,
-          "rainMm": 0.1
+          "rainProbability": 19,
+          "rainMm": 0.7
         },
         {
           "date": "2026-10-18",
-          "min": 8.1,
-          "max": 15.4,
+          "min": 7.4,
+          "max": 14.6,
           "condition": "Nubes y sol",
-          "rainProbability": 4,
+          "rainProbability": 2,
           "rainMm": 0
         },
         {
           "date": "2026-10-19",
           "min": 7.4,
-          "max": 17.2,
+          "max": 18.1,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
@@ -774,26 +774,26 @@
       "days": [
         {
           "date": "2026-10-17",
-          "min": 11,
-          "max": 17.1,
+          "min": 11.2,
+          "max": 16.9,
           "condition": "Nubes y sol",
-          "rainProbability": 2,
+          "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-18",
-          "min": 9,
-          "max": 17.4,
+          "min": 9.2,
+          "max": 17.5,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-19",
-          "min": 9.7,
-          "max": 19.3,
+          "min": 10.1,
+          "max": 19.9,
           "condition": "Nubes y sol",
-          "rainProbability": 22,
+          "rainProbability": 8,
           "rainMm": 0
         }
       ]
@@ -804,32 +804,38 @@
       "days": [
         {
           "date": "2026-10-17",
-          "min": 8.7,
-          "max": 16.1,
+          "min": 8.4,
+          "max": 16.4,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-18",
-          "min": 8,
-          "max": 15.6,
+          "min": 8.8,
+          "max": 16,
           "condition": "Nubes y sol",
           "rainProbability": 0,
           "rainMm": 0
         },
         {
           "date": "2026-10-19",
-          "min": 8.7,
-          "max": 18.4,
+          "min": 9.1,
+          "max": 17.7,
           "condition": "Nubes y sol",
-          "rainProbability": 10,
+          "rainProbability": 2,
           "rainMm": 0
         }
       ]
     }
   ],
   "history": [
+    {
+      "at": "2026-10-17T02:41:17.171Z",
+      "ok": 6,
+      "review": 1,
+      "errors": 0
+    },
     {
       "at": "2026-10-16T20:42:30.376Z",
       "ok": 6,
@@ -979,10 +985,10 @@
       "url": "https://alerta.ina.gob.ar/a5/diario/reporte_diario",
       "kind": "structured",
       "date": "2026-10-16",
-      "checkedAt": "2026-10-16T20:42:30.376Z",
+      "checkedAt": "2026-10-17T02:41:17.171Z",
       "status": "ok",
       "message": "25 estaciones validadas",
-      "lastSuccess": "2026-10-16T20:42:30.376Z"
+      "lastSuccess": "2026-10-17T02:41:17.171Z"
     },
     {
       "id": "smn",
@@ -991,11 +997,11 @@
       "reference": "https://repositorio.smn.gob.ar/handle/20.500.12160/3332",
       "kind": "climate",
       "date": "2026-10-02",
-      "checkedAt": "2026-10-16T20:42:30.376Z",
+      "checkedAt": "2026-10-17T02:41:17.171Z",
       "status": "ok",
       "message": "Informe climático consultado",
       "latestUrl": "https://repositorio.smn.gob.ar/handle/20.500.12160/3332",
-      "lastSuccess": "2026-10-16T20:42:30.376Z"
+      "lastSuccess": "2026-10-17T02:41:17.171Z"
     },
     {
       "id": "municipio",
@@ -1004,13 +1010,13 @@
       "listing": "https://pasodeloslibres.gob.ar/noticias",
       "kind": "libres",
       "date": "2026-10-07",
-      "checkedAt": "2026-10-16T20:42:30.376Z",
+      "checkedAt": "2026-10-17T02:41:17.171Z",
       "status": "ok",
       "message": "Sin un conteo verificable más reciente",
       "latestUrl": "https://pasodeloslibres.gob.ar/noticias/1c31c259-78f3-434b-b5c8-79c6472cfc96",
       "hash": "71db28eecb44e9b0dd451adf1288e658c002678d250725f0aeb15c5d81d7e77b",
-      "changed": true,
-      "lastSuccess": "2026-10-16T20:42:30.376Z"
+      "changed": false,
+      "lastSuccess": "2026-10-17T02:41:17.171Z"
     },
     {
       "id": "confirmado",
@@ -1019,13 +1025,13 @@
       "listing": "https://www.confirmado.com.ar/",
       "kind": "libres",
       "date": "2026-10-16",
-      "checkedAt": "2026-10-16T20:42:30.376Z",
+      "checkedAt": "2026-10-17T02:41:17.171Z",
       "status": "review",
       "message": "Nuevo reporte: conteo ambiguo; se conserva el dato anterior",
       "latestUrl": "https://www.confirmado.com.ar/vernota.asp?id_noticia=35058",
-      "hash": "e9063eec0dfe86336f47dd18ea3efff86e2db539d3fdc831943a22b1d1e3261d",
+      "hash": "bf4ea1bb7936154a5bf1c9adba227bcdd8ae92346e7ce28f4320c3e3a6e5d921",
       "changed": true,
-      "lastSuccess": "2026-10-16T20:42:30.376Z"
+      "lastSuccess": "2026-10-17T02:41:17.171Z"
     },
     {
       "id": "concordia",
@@ -1034,24 +1040,24 @@
       "listing": "https://concordia24.com.ar/",
       "kind": "concordia",
       "date": "2026-10-11",
-      "checkedAt": "2026-10-16T20:42:30.376Z",
+      "checkedAt": "2026-10-17T02:41:17.171Z",
       "status": "ok",
       "message": "Sin un conteo verificable más reciente",
       "latestUrl": "https://concordia24.com.ar/hasta-este-domingo-son-7-familias-evacuadas/",
-      "hash": "8f6b28353fd4413273c1fe940a025eb3b8d95356b019d134cdb19ac34e34c2db",
+      "hash": "f3a9ab4283d3a84e564fa2efb9c0e7b34d00d56aab6b2b068abb50048c615c2f",
       "changed": true,
-      "lastSuccess": "2026-10-16T20:42:30.376Z"
+      "lastSuccess": "2026-10-17T02:41:17.171Z"
     },
     {
       "id": "weather",
       "name": "Pronóstico automático · Open-Meteo / MET Norway",
       "url": "https://open-meteo.com/en/docs",
       "kind": "weather",
-      "date": "2026-10-16",
-      "checkedAt": "2026-10-16T20:42:30.376Z",
+      "date": "2026-10-17",
+      "checkedAt": "2026-10-17T02:41:17.171Z",
       "status": "ok",
       "message": "Pronóstico de 3 días para 10 ciudades · Open-Meteo",
-      "lastSuccess": "2026-10-16T20:42:30.376Z"
+      "lastSuccess": "2026-10-17T02:41:17.171Z"
     },
     {
       "id": "esri",
@@ -1059,10 +1065,10 @@
       "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer?f=json",
       "kind": "map",
       "date": null,
-      "checkedAt": "2026-10-16T20:42:30.376Z",
+      "checkedAt": "2026-10-17T02:41:17.171Z",
       "status": "ok",
       "message": "Servicio de mapa disponible",
-      "lastSuccess": "2026-10-16T20:42:30.376Z"
+      "lastSuccess": "2026-10-17T02:41:17.171Z"
     }
   ]
 }
